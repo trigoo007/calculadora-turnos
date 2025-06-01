@@ -1,0 +1,58 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+# Instalar dependencias del sistema y cloudflared
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    curl \
+    ca-certificates \
+    gcc \
+    g++ \
+    python3-dev \
+    # Instalar cloudflared
+    && curl -L https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -o /usr/local/bin/cloudflared \
+    && chmod +x /usr/local/bin/cloudflared \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copiar archivos de requerimientos primero para optimizar el cache de Docker
+COPY requirements.txt .
+COPY requirements-contexto.txt .
+
+# Instalar dependencias de Python
+RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements-contexto.txt
+
+# Copiar el resto de los archivos de la aplicación
+COPY *.py .
+COPY ui ./ui
+COPY experimental ./experimental
+COPY procesamiento ./procesamiento
+COPY utils ./utils
+COPY csv ./csv
+COPY setup.py .
+# Los archivos de documentación como READMEs, TIMELINE.md, CLAUDE.md no se copian
+# ya que generalmente no son necesarios en el entorno de ejecución.
+
+# Crear directorios necesarios
+RUN mkdir -p temp
+RUN mkdir -p conocimiento
+RUN mkdir -p recursos
+RUN mkdir -p logs
+RUN mkdir -p /root/vectorstore
+
+# Script para preparar el entorno y ejecutar la aplicación
+COPY docker-entrypoint-contexto.sh /app/docker-entrypoint.sh
+RUN chmod +x /app/docker-entrypoint.sh
+
+# Puerto para Streamlit
+EXPOSE 8501
+
+# Puerto para cloudflared (si se ejecuta en este contenedor, aunque se recomienda un servicio separado)
+# El puerto 8080 no necesita ser expuesto aquí si cloudflared dentro del contenedor
+# se conecta directamente al servicio de Streamlit en localhost:8501 y el túnel
+# es gestionado por cloudflared. La exposición de puertos en Dockerfile es más para
+# cuando otros contenedores necesitan acceder a este puerto directamente, o para mapeo al host.
+# EXPOSE 8080 # Comentado ya que cloudflared se ejecuta internamente.
+
+# Comando para iniciar la aplicación
+ENTRYPOINT ["/app/docker-entrypoint.sh"]

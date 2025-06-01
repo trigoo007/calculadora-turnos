@@ -1,0 +1,51 @@
+version: '3'
+
+services:
+  calculadora:
+    build:
+      context: .
+      dockerfile: Dockerfile.contexto
+    image: calculadora-turnos-contexto:latest
+    container_name: calculadora-turnos-contexto
+    ports:
+      - "8501:8501"  # Puerto para Streamlit
+    volumes:
+      - ./csv:/app/csv
+      - ./conocimiento:/app/conocimiento
+      - ./logs:/app/logs
+      - contexto_vectorial:/root/vectorstore
+    environment:
+      - STREAMLIT_SERVER_PORT=8501
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+      # Configuración del túnel Cloudflare
+      - CLOUDFLARE_TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN:-}
+      # Configuración de autenticación
+      - ENABLE_AUTHENTICATION=true
+      - ADMIN_EMAIL=admin@ejemplo.com
+      - AUTH_SECRET_KEY=${AUTH_SECRET_KEY:-calculadora_secret_key_2025}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  sqlmanager:
+    image: linuxserver/sqlitebrowser:latest
+    container_name: sqlitebrowser
+    ports:
+      - "8503:3000"
+    volumes:
+      - ./conocimiento:/data
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Santiago
+    restart: unless-stopped
+    depends_on:
+      - calculadora
+
+volumes:
+  contexto_vectorial:
+    driver: local

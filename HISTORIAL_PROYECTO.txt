@@ -1,0 +1,127 @@
+# HISTORIAL DEL PROYECTO: CALCULADORA DE TURNOS EN RADIOLOGÍA
+Fecha de inicio: Mayo 2025
+Última actualización: 5 de mayo de 2025
+
+## RESUMEN DEL PROYECTO
+
+La Calculadora de Turnos en Radiología es una aplicación para procesar datos de procedimientos médicos en radiología, 
+clasificar exámenes (RX y TAC), calcular horas trabajadas y generar reportes económicos para la facturación 
+de servicios médicos.
+
+## FUNCIONALIDADES PRINCIPALES
+
+- Procesamiento de archivos CSV con datos de procedimientos radiológicos
+- Filtrado y clasificación de exámenes (RX, TAC, TAC doble)
+- Detección especializada de TAC dobles con múltiples criterios
+- Cálculo de horas trabajadas según días de turno
+- Cálculo de honorarios médicos según tarifas preestablecidas
+- Generación de reportes en Excel y texto plano
+- Generación automática de correo formal para envío de reportes
+
+## HISTORIAL DE CAMBIOS
+
+### [05-05-2025] Proyecto inicial
+
+- Implementación de la versión inicial en Tkinter
+- Procesamiento básico de CSV con datos de procedimientos
+- Filtrado básico de exámenes por sala de adquisición
+
+### [05-05-2025] Mejoras en clasificación de TAC dobles
+
+- Se agregaron criterios adicionales para detectar TAC dobles
+- Corrección en la identificación de exámenes con patrones "TX/ABD/PEL" y "Angio Tórax Abdomen y Pelvis"
+- Solución para los exámenes con IDs 9865805, 9883701, 9887600 que no estaban siendo detectados correctamente
+
+### [05-05-2025] Reorganización de tablas y resultados
+
+- Implementación de tablas separadas para "TAC SCA Y SJ" y "RX SCA Y SJ"
+- Mejora en la visualización de resultados en tiempo real
+- Ocultamiento de "TAC doble" en reportes oficiales pero manteniendo cálculo correcto de tarifas
+
+### [05-05-2025] Implementación de selección de días de turno
+
+- Adición de sistema para especificar días de turno con formato dd-mmm-yyyy
+- Cálculo automático de horas según día de la semana y condición de feriado
+- Mejora en la interfaz para selección de fechas
+
+### [05-05-2025] Mejoras en gestión de archivos y calendario
+
+- Cambio de la estructura de carpetas de salida (csv/TURNOS MES AÑO)
+- Implementación de calendario visual para selección de fechas
+- Corrección de problemas con el selector de meses
+
+### [05-05-2025] Mejoras en el formato del correo y archivos de salida
+
+- Actualización del formato del correo según plantilla especificada
+- Generación automática de archivo de texto con el correo
+- Determinación inteligente del período basado en las fechas de turnos
+
+### [05-05-2025] Simplificación de tablas de datos
+
+- Rediseño de tablas para mostrar sólo información esencial
+- Implementación de formato minimalista pero elegante
+- Ajuste automático de anchos de columna para mejor visualización
+
+### [05-05-2025] Creación de versión Streamlit
+
+- Implementación de prototipo inicial en Streamlit
+- Adición de visualizaciones interactivas con Plotly
+- Implementación de estimación inteligente de días de turno
+- Sistema de verificación y chequeo de exámenes
+- Interfaz moderna con diseño de pestañas
+
+### [05-05-2025] Instalación de dependencias y prueba de Streamlit
+
+- Instalación de bibliotecas Streamlit y Plotly
+- Creación de archivo de historial del proyecto para seguimiento de cambios
+- Preparación del entorno para ejecución y pruebas de la aplicación Streamlit
+
+### [05-05-2025] Mejoras en la versión Streamlit
+
+- Agregado sistema de búsqueda en tiempo real para examinar datos cargados
+- Implementación de funciones para envío de correo con archivos adjuntos
+- Mejora en la gestión del nombre del doctor y su persistencia entre pantallas
+- Mejor visualización de datos con métricas y filtros por tipo de examen
+- Reorganización de interfaz usando expansores y grupos lógicos de funciones
+
+### [05-05-2025] Implementación de cálculos económicos precisos en Streamlit
+
+- Implementación de método `calcular_horas_turno_especificas` para cálculo preciso de horas según días de turno
+- Adición de función `contabilizar_examenes` para procesamiento efectivo de exámenes
+- Integración de método `calcular_honorarios` para cálculos económicos detallados
+- Mejora en la visualización del resumen económico usando métricas de Streamlit
+- Corrección de cálculos de TAC dobles en reportes finales
+
+### [05-05-2025] Mejora de la detección de TAC dobles y validación integrada
+
+- Expansión de patrones para detección de TAC dobles con variantes adicionales
+- Adición de casos específicos como "TAC Torax-Abdomen-Pelvis Ped" y "TAC TX/ABD/PEL"
+- Implementación de mecanismo de validación en tiempo real para verificar clasificación
+- Agregado de interfaz para verificación visual de patrones de TAC doble
+- Soporte para identificación de TAC dobles por ID único específico
+
+### [05-05-2025] Implementación de sistema de aprendizaje y clasificación avanzada
+
+- Creación de módulo `aprendizaje_datos.py` para indexación y clasificación de procedimientos
+- Generación automática de códigos únicos para cada procedimiento
+- Sistema de detección y aprendizaje de patrones de TAC doble
+- Módulo para memorización de tipos de salas (SCA, SJ, HOS)
+- Interfaz integrada de configuración avanzada para explorar el conocimiento aprendido
+- Persistencia del conocimiento entre sesiones para mejorar clasificaciones futuras
+
+## TECNOLOGÍAS UTILIZADAS
+
+- Python 3.x
+- Pandas para procesamiento de datos
+- Tkinter y tkcalendar para la interfaz gráfica original
+- Streamlit para la versión web moderna
+- Plotly para visualizaciones interactivas
+- OpenPyXL para generación de archivos Excel
+
+## PRÓXIMOS PASOS
+
+- Completar funcionalidades de la versión Streamlit
+- Implementar persistencia de datos y configuraciones
+- Añadir visualizaciones avanzadas (mapas de calor, estadísticas)
+- Optimizar el rendimiento con conjuntos grandes de datos
+- Implementar pruebas automatizadas

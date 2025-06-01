@@ -1,0 +1,3138 @@
+{
+  "Doppler Venoso Ext.Inf.Izq HOS": {
+    "codigo": "DOVEEX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Abdomen y Pelvis": {
+    "codigo": "TADEAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Derecho AP-L C/Apoyo + Oblicuo": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax AP/L": {
+    "codigo": "RXTOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Abdomen y Pelvis": {
+    "codigo": "TAANAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Der AP/L/Axial/Tunel Inter.": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cerebro": {
+    "codigo": "TADECE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Macizo Facial": {
+    "codigo": "TADEMA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Columna Cervical": {
+    "codigo": "TADECO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax AP-L Ped": {
+    "codigo": "RXTOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Columna Lumbar": {
+    "codigo": "TADECO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Izq AP/L": {
+    "codigo": "RXMUIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izquierdo AP-L C/Apoyo + Oblicuo Ped": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Derecho AP-L": {
+    "codigo": "RXDEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Parrilla Costal Izq AP/Oblicua": {
+    "codigo": "RXPACO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Muñeca Izquierda": {
+    "codigo": "TAMUIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq AP/L/Axial": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Torax-Abdomen-Pelvis Ped": {
+    "codigo": "TATOPE",
+    "tipo": "TAC",
+    "subtipo": "DOBLE",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Derecho AP-L": {
+    "codigo": "RXANDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Derecho AP-L-Oblicuos Ped": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Derecho AP-L-Oblicuo Ped": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Pielografia": {
+    "codigo": "TAPI",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cerebro Nino": {
+    "codigo": "TADECE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax (2P) Portátil": {
+    "codigo": "RXTO2P",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cavidades Perinasales": {
+    "codigo": "TADECA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax AP": {
+    "codigo": "RXTOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Parrillas Costales": {
+    "codigo": "RXAMPA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Torax": {
+    "codigo": "TADETO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax (1P) Portátil": {
+    "codigo": "RXTO1P",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax AP-L": {
+    "codigo": "RXTOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Der AP/L/Oblicuo Ped": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Rodillas AP/L/Axial Ped": {
+    "codigo": "RXAMRO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Clavícula Izq Ped": {
+    "codigo": "RXCLIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Hombro Izq (3P) Ped": {
+    "codigo": "RXHOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Humero Izq AP/L Ped": {
+    "codigo": "RXHUIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Manos AP/L/Oblicua Ped": {
+    "codigo": "RXAMMA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Derecho AP-L-Oblicuo Ped": {
+    "codigo": "RXORDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq AP/L/Axial/Tunel Inter.": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Abdominal Ped": {
+    "codigo": "ECABPE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Orbitas Ped": {
+    "codigo": "TADEOR",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Derecho AP-L-Oblicuo C/Apoyo": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Der AP/L/Oblicuo": {
+    "codigo": "RXORDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Der AP/L/Oblicuo": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Der AP/L/Oblicuo": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Der AP/L/Oblicua": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Izquierdo AP-L-Oblicuo": {
+    "codigo": "RXORIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izq AP/L/Oblicuo": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Pelvis Osea": {
+    "codigo": "TAPEOS",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Partes Blandas": {
+    "codigo": "ECPABL",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Der AP/L Ped": {
+    "codigo": "RXANDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Lumbar AP/Lateral/5o Espacio": {
+    "codigo": "RXCOLU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Tórax": {
+    "codigo": "TAANTÓ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izquierda AP-L-Axial-Rosenberg": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Derecha AP-L Ped": {
+    "codigo": "RXMUDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Abdomen AP PORTÁTIL Ped": {
+    "codigo": "RXABAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Izquierdo AP-L-Oblicuo Ped": {
+    "codigo": "RXDEIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Pielografia (PIELOTAC)": {
+    "codigo": "TAPIPI",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Venoso Ext.Inf Der": {
+    "codigo": "DOVEEX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Izq AP/L Ped": {
+    "codigo": "RXANIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax AP/Lateral Ped": {
+    "codigo": "RXTOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Derecha AP-L-Axial-Rosenberg Ped": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Cerebro": {
+    "codigo": "TAANCE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Izquierdo AP-L Ped": {
+    "codigo": "RXCOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Izquierdo Oblicuos Ped": {
+    "codigo": "RXCOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Torax Oseo": {
+    "codigo": "TATOOS",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Cervical AP/L Ped": {
+    "codigo": "RXCOCE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Rx Pelvis AP/Lowenstein < 6 años Ped": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Huesos Propios de la Nariz": {
+    "codigo": "RXHUPR",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Humero Derecho AP-L": {
+    "codigo": "RXHUDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Izq AP/L/Oblicuo": {
+    "codigo": "RXCOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Izq AP/L": {
+    "codigo": "RXANIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Abdominal": {
+    "codigo": "ECAB",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izquierda AP-L-Axial Ped": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Izq AP/L/Oblicuo con Apoyo Ped": {
+    "codigo": "RXTOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Der AP/L/Oblicua": {
+    "codigo": "RXMADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Der AP/L/Oblicua": {
+    "codigo": "RXMUDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Izq  AP/L/Oblicuo Ped": {
+    "codigo": "RXDEIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Derecho AP-L-Oblicuo Ped": {
+    "codigo": "RXDEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Izquierdo AP-L-Oblicuo C/Apoyo Ped": {
+    "codigo": "RXTOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izq AP/L con Apoyo y Oblicuo": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Der AP/L/Oblicuo Ped": {
+    "codigo": "RXDEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Hombro Izq (3P)": {
+    "codigo": "RXHOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Izq AP/L/Oblicuo": {
+    "codigo": "RXTOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Derecha AP-L-Oblicua Ped": {
+    "codigo": "RXMADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Izquierda AP-L Ped": {
+    "codigo": "RXMUIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Izq AP/L Ped": {
+    "codigo": "RXMUIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Derecha AP-L Ped": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Derecho AP-L-Oblicuo Ped": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Calcaneo Derecho Axial-L Ped": {
+    "codigo": "RXCADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis Inlet-Outlet Ped": {
+    "codigo": "RXPEIN",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Rx Pelvis AP/Lowenstein >6 años Ped": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Piernas AP/L Ped": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cuello": {
+    "codigo": "TADECU",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Izq AP/L Ped": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izq AP/L/Oblicuo Ped": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Izquierdo AP-L-Oblicuo C/Apoyo": {
+    "codigo": "RXTOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Der AP/L/Axial/Rosenberg Ped": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP > 6 años Ped": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Venoso Ambas EEII": {
+    "codigo": "DOVEAM",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Calcaneo Izquierdo Axial-L Ped": {
+    "codigo": "RXCAIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Derecho AP-L-Oblicuo": {
+    "codigo": "RXDEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq AP/L/Oblicuas": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis Adulto": {
+    "codigo": "RXPEAD",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Izq AP/L/Oblicua": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Huesos Propios Nasales Ped": {
+    "codigo": "RXHUPR",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Cuello": {
+    "codigo": "TAANCU",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Venoso Ext.Inf.Izquierda": {
+    "codigo": "DOVEEX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Lumbar AP-L-5°Espacio": {
+    "codigo": "RXCOLU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Izquierdo AP-L-Oblicuo Ped": {
+    "codigo": "RXORIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP-Inlet-Outlet": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC TX/ABD/PEL": {
+    "codigo": "TATX",
+    "tipo": "TAC",
+    "subtipo": "DOBLE",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Der AP/L/Oblicuo Ped": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP + Cadera Izq AP-Axial Ped": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Der AP/L/Oblicuo": {
+    "codigo": "RXDEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Izq AP/L/Oblicuo con Apoyo": {
+    "codigo": "RXTOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Der AP/L": {
+    "codigo": "RXDEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Parrilla Costal Der AP/Oblicua": {
+    "codigo": "RXPACO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Der AP/L": {
+    "codigo": "RXMUDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Extremidad Superior": {
+    "codigo": "TAANEX",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Izquierda AP-L": {
+    "codigo": "RXMUIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Derecha AP-L-Oblicua": {
+    "codigo": "RXMADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP + Cadera Izquierda AP-Axial": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Lumbar AP/L/5o Espacio Ped": {
+    "codigo": "RXCOLU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Izquierdo AP-L-Oblicuo": {
+    "codigo": "RXDEIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Parrilla Costal Izquierda": {
+    "codigo": "RXPACO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Hombro Der(3P)": {
+    "codigo": "RXHODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Orbitas": {
+    "codigo": "TADEOR",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Húmero Der AP/L": {
+    "codigo": "RXHÚDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Der AP/L/Oblicuo con Apoyo": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Venoso Ext.Sup.Derecha": {
+    "codigo": "DOVEEX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Coxis AP-L": {
+    "codigo": "RXCOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Sacro AP-L": {
+    "codigo": "RXSAAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Derecho AP-L C/Apoyo + Oblicuo Ped": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Derecho AP-L-Oblicuo C/Apoyo Ped": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax AP Portatil": {
+    "codigo": "RXTOAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Der AP/L/Oblicuo con Apoyo Ped": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Hombro Der (3P) Ped": {
+    "codigo": "RXHODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Estudio Escafoides Derecho": {
+    "codigo": "RXESES",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Testicular Ped": {
+    "codigo": "ECTEPE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Carotideo HOS": {
+    "codigo": "DOCAHO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Encefalica Ped Portatil": {
+    "codigo": "ECENPE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Abdominal Portatil": {
+    "codigo": "DOABPO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Ambos Muslo/Femur": {
+    "codigo": "TAAMMU",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax (1P) Portátil Ped": {
+    "codigo": "RXTO1P",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Pelviana Masculina HOS": {
+    "codigo": "ECPEMA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Abdominal Ped Portatil": {
+    "codigo": "ECABPE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pie Izquierdo": {
+    "codigo": "RMPIIZ",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Colangio": {
+    "codigo": "RMCO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Der AP/L/Oblicuo Ped": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Der AP-L-Oblicua Ped": {
+    "codigo": "RXMADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cerebro Ped": {
+    "codigo": "TADECE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Angio Protocolo TIA": {
+    "codigo": "RMANPR",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pierna Izquierda": {
+    "codigo": "RMPIIZ",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Der AP/L con Apoyo y Oblicuo": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP. Cad AP/Axial Izq": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Clavicula Izq": {
+    "codigo": "RXCLIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Art. Acromioclaviculares": {
+    "codigo": "RXAMAR",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Izq AP/L": {
+    "codigo": "RXCOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Escafoides Izq": {
+    "codigo": "RXESIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Izq AP/L/Oblicua": {
+    "codigo": "RXMAIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Hombro Derecho AP-Outlet-Axial": {
+    "codigo": "RXHODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Izq AP/L": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Derecho AP-L-Oblicuo": {
+    "codigo": "RXTODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Derecho AP-L-Oblicuo": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Hombro Derecho": {
+    "codigo": "TAHODE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Huesos Propios de la Nariz Ped": {
+    "codigo": "RXHUPR",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Parrilla Costal Derecha": {
+    "codigo": "RXPACO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Abdomen-Pelvis Ped": {
+    "codigo": "TAABPE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Clavicula Izquierda Ped": {
+    "codigo": "RXCLIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Rodilla Izquierda": {
+    "codigo": "TAROIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cadera Izq AP/Cross Table": {
+    "codigo": "RXCAIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis Inlet": {
+    "codigo": "RXPEIN",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis Outlet": {
+    "codigo": "RXPEOU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Derecho AP-L-Oblicuo": {
+    "codigo": "RXORDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Izq AP-L-Oblicua Ped": {
+    "codigo": "RXMAIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Dedo Izq AP/L/Oblicuo": {
+    "codigo": "RXDEIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cerebro + AngioRM Vasos Intra y Extracraneanos": {
+    "codigo": "RMCEAN",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Abdomen Simple (2P) Ped": {
+    "codigo": "RXABSI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Izq AP/L/Oblicuo Ped": {
+    "codigo": "RXCOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Escafoides Der": {
+    "codigo": "RXESDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Lumbo Sacra AP/L c/5to espacio(3 P)": {
+    "codigo": "RXCOLU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Femur Derecho Ap/L": {
+    "codigo": "RXFEDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cerebro": {
+    "codigo": "RMCE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Der Rosenberg (PA)": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Piernas AP-L": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Femures AP-L": {
+    "codigo": "RXAMFE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Izquierdo AP-L-Oblicuos": {
+    "codigo": "RXCOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Derecha AP-L-Axial-Tunel": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Der AP/L/Axial/Rosenberg": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Codo Izquierdo": {
+    "codigo": "TACOIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Der AP/L": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Stroke": {
+    "codigo": "RMST",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Cervical AP-L-Transoral": {
+    "codigo": "RXCOCE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq Ap/L/Tunel Inter.": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Femur Izquierdo Ap/L": {
+    "codigo": "RXFEIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Der AP/L Ped": {
+    "codigo": "RXMUDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Derecha AP-L-Axial": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP, Cad AP/Axial/Izq Ped": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izquierda AP-L-Axial": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Der AP/L/Axial": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Derecho AP-L Ped": {
+    "codigo": "RXANDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Derecha AP-L-Axial-Tunel Ped": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Abdomen y Pelvis": {
+    "codigo": "RMABY",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Lumbar": {
+    "codigo": "RMCOLU",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Endosonografía digestiva sin punción": {
+    "codigo": "ENDISI",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Tórax Abdomen y Pelvis": {
+    "codigo": "TAANTÓ",
+    "tipo": "TAC",
+    "subtipo": "DOBLE",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Abdomen AP/L Portátil Ped": {
+    "codigo": "RXABAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Venoso Ext.Sup.Izquierda": {
+    "codigo": "DOVEEX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Total": {
+    "codigo": "RMCOTO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Abdomen Simple": {
+    "codigo": "RXABSI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Cervical AP/L": {
+    "codigo": "RXCOCE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Abdomen + Colangio RM": {
+    "codigo": "RMABCO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Colonoscopía total": {
+    "codigo": "COTO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Extremidad 1 AP Portatil": {
+    "codigo": "RXEX1",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Abdominal Portatil": {
+    "codigo": "ECABPO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Izquierdo AP-L Ped": {
+    "codigo": "RXANIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Endoscopía Digestiva Alta": {
+    "codigo": "ENDIAL",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecocardiograma Doppler": {
+    "codigo": "ECDO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografía Pleural Ped Portatil": {
+    "codigo": "ECPLPE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Izq AP/L": {
+    "codigo": "RXORIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izq AP/L": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Abdomen y Pelvis Ped": {
+    "codigo": "RMABY",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Extremidades": {
+    "codigo": "TAANEX",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "Angiografía Cerebral/Medular": {
+    "codigo": "ANCE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Renal": {
+    "codigo": "ECRE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Dorsal Ninos": {
+    "codigo": "RMCODO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Hemostasia Endoscópica Alta": {
+    "codigo": "HEENAL",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Torax (2P) Portátil Ped": {
+    "codigo": "RXTO2P",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP. Ambas Caderas Axiales": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Abd-Pelvis Técnica Urográfica": {
+    "codigo": "TAABTÉ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Perfusion Cerebral/Neuronavegador": {
+    "codigo": "RMPECE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "MN Linfocintigrafia Ganglio Centinela HOS": {
+    "codigo": "MNLIGA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Coronariografía": {
+    "codigo": "CORON",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Imagen pabellón": {
+    "codigo": "IMPA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Abdomen": {
+    "codigo": "RMAB",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Mamografía Bilateral": {
+    "codigo": "MABI",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Mamaria": {
+    "codigo": "ECMA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Tiroidea": {
+    "codigo": "ECTI",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Pelviana Femenina Dra.Barbieri Ped": {
+    "codigo": "ECPEFE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Prot.Espondiloartropatias": {
+    "codigo": "RMPR",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Abdomen": {
+    "codigo": "TADEAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Pelviana Femenina Ped": {
+    "codigo": "ECPEFE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Silla Turca": {
+    "codigo": "RMSITU",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pelvis Blanda": {
+    "codigo": "RMPEBL",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Eco Biopsia CORE Priv Der (FNS,PA,Partic)": {
+    "codigo": "ECBICO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Densitometria Osea de Columna y Caderas": {
+    "codigo": "DEOSDE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Colocacion Sonda Enteroclisis": {
+    "codigo": "RXCOSO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Ambos Hombros": {
+    "codigo": "RMAMHO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Prostata": {
+    "codigo": "RMPR",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Region Cervical": {
+    "codigo": "ECRECE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia MSK Pierna Derecha": {
+    "codigo": "ECMSPI",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Renal Medicos": {
+    "codigo": "DOREME",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Hombro Izquierdo": {
+    "codigo": "RMHOIZ",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Testicular": {
+    "codigo": "ECTE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pelvis Partes Blandas": {
+    "codigo": "RMPEPA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Rodilla Derecha": {
+    "codigo": "RMRODE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cuello": {
+    "codigo": "RMCU",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Muslo / Femur Izquierdo": {
+    "codigo": "RMMUFE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pelvis Osea": {
+    "codigo": "RMPEOS",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cadera Osea Izquierda": {
+    "codigo": "RMCAOS",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cadera Osea Derecha": {
+    "codigo": "RMCAOS",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cavidades Perinasales Niño SEDACIÓN": {
+    "codigo": "TADECA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Cervical": {
+    "codigo": "RMCOCE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Abdominal Medicina Preventiva": {
+    "codigo": "ECABME",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Dorsal": {
+    "codigo": "RMCODO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Rodilla Ambas": {
+    "codigo": "RMROAM",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Orbitas": {
+    "codigo": "RMOR",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Pelvis": {
+    "codigo": "TADEPE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Mamografía Compresion Mamaria Izq": {
+    "codigo": "MACOMA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Rodilla Izquierda": {
+    "codigo": "RMROIZ",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Eco Elastografía Hepática": {
+    "codigo": "ECELHE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Muñeca Derecha": {
+    "codigo": "RMMUDE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Mamografía Bilateral Digital Medicina Preventiva": {
+    "codigo": "MABIDI",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Mamaria Medicina Preventiva": {
+    "codigo": "ECMAME",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Sacro-Coxis": {
+    "codigo": "RMSA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cadera Izquierda": {
+    "codigo": "RMCAIZ",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM A.T.M.": {
+    "codigo": "RMAT",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Tobillo Derecho": {
+    "codigo": "RMTODE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Mamaria Varones": {
+    "codigo": "ECMAVA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Coronario": {
+    "codigo": "TAANCO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Oidos": {
+    "codigo": "TADEOI",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Plexo Braquial": {
+    "codigo": "RMPLBR",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cadera Der Cross Table": {
+    "codigo": "RXCADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cerebro + Vasos Intra y Extracraneales": {
+    "codigo": "RMCEVA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Extremidades Inferiores AP Ped": {
+    "codigo": "RXEXIN",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Angio Cerebro": {
+    "codigo": "RMANCE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP Ped <6años": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Sacrocoxigea AP/L": {
+    "codigo": "RXCOSA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP < 6 años Ped": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Abdomen Simple AP/L": {
+    "codigo": "RXABSI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Lumbo Sacra Funcionales (2 P)": {
+    "codigo": "RXCOLU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Manos AP/L": {
+    "codigo": "RXAMMA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Muñecas AP/L": {
+    "codigo": "RXAMMU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Rodillas Rosenberg/AP/Lat/Axial": {
+    "codigo": "RXAMRO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP/Lowenstein": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Pies AP-L C/Apoyo Ped": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Der AP/L con Apoyo": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Retroalveolar Total": {
+    "codigo": "RXRETO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Pies AP/L/Oblicuos Ped": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Rx Panorámica": {
+    "codigo": "RXPA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Der AP/L/Axial/Rosenberg/Tunel": {
+    "codigo": "RXRODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq AP/L/Axial/Rosenberg/Tunel": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Hombro Izq(2P)": {
+    "codigo": "RXHOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Total Ped (2P)": {
+    "codigo": "RXCOTO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Aleta Mordida Bilateral Adulto": {
+    "codigo": "RXALMO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Retroalveolar": {
+    "codigo": "RXRE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Craneo (2 P)": {
+    "codigo": "RXCR2",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Pies AP/L con Apoyo": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cavum Rinofaringeo Ped": {
+    "codigo": "RXCARI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Edad Osea Mano Ped": {
+    "codigo": "RXEDOS",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Pies AP/L con Apoyo y Oblicuas": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Der AP/L Ped": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Pies AP/L": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Tobillo Izq AP/L/Oblicuo Ped": {
+    "codigo": "RXTOIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cadera Izq DUNN 45°": {
+    "codigo": "RXCAIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Izq AP/L/Oblicua": {
+    "codigo": "RXMUIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Mamografia Complemento": {
+    "codigo": "MACO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Mamografía por Implantes": {
+    "codigo": "MAPOIM",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Torax Ped": {
+    "codigo": "TADETO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Der AP/L": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX EEII AP": {
+    "codigo": "RXEEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cavidades Perinasales": {
+    "codigo": "RXCAPE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Rodillas AP-L": {
+    "codigo": "RXAMRO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambos Pies AP-L": {
+    "codigo": "RXAMPI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Manos AP-L": {
+    "codigo": "RXAMMA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Cervical AP/L/O": {
+    "codigo": "RXCOCE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Mamografía Proyeccion Axilar Izquierda": {
+    "codigo": "MAPRAX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Aleta Mordida Bilateral Niño": {
+    "codigo": "RXALMO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq AP/L/Axial/Rosenberg": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cadera Izquierda AP-Crosstable": {
+    "codigo": "RXCAIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Bite Wing + Retroalveolar (Máx 5)": {
+    "codigo": "RXBIWI",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Carpo Edad Osea Ped": {
+    "codigo": "RXCAED",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Columna Dorsal": {
+    "codigo": "TADECO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "Rx Columna Total AP/L": {
+    "codigo": "RXCOTO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cadera Der AP/Cross Table": {
+    "codigo": "RXCADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pie Derecho": {
+    "codigo": "RMPIDE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Total(2P)": {
+    "codigo": "RXCOTO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Antebrazo Derecho": {
+    "codigo": "RMANDE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Art. Sacroiliacas": {
+    "codigo": "RMARSA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Cervico Dorsal": {
+    "codigo": "RMCOCE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Cadera Derecha": {
+    "codigo": "RMCADE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Columna Dorso Lumbar": {
+    "codigo": "RMCODO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RM Pierna Derecha": {
+    "codigo": "RMPIDE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Cervical AP/L/Funcionales": {
+    "codigo": "RXCOCE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Articulacion Sacroiliaca (2P)": {
+    "codigo": "RXARSA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Columna Dorsal AP/L": {
+    "codigo": "RXCODO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izquierdo AP-L C/Apoyo + Oblicuo": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Manos AP/L/Oblicuas": {
+    "codigo": "RXAMMA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Edad Osea Mano Adulto": {
+    "codigo": "RXEDOS",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Axilar": {
+    "codigo": "ECAX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Rodillas AP-L Ped": {
+    "codigo": "RXAMRO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ambas Rotulas Axiales Ped": {
+    "codigo": "RXAMRO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Art.Temporomandibular Izquierda": {
+    "codigo": "RXARIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cadera Izquierda": {
+    "codigo": "TACAIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Tobillo izquierdo Ped": {
+    "codigo": "TATOIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Brazo Derecho": {
+    "codigo": "TABRDE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Mandibula": {
+    "codigo": "TADEMA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Muslo/Femur Izquierdo": {
+    "codigo": "TAMUIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Abdomen y Pelvis Ped": {
+    "codigo": "TADEAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cuello Ped": {
+    "codigo": "TADECU",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Tobillo Izquierdo": {
+    "codigo": "TATOIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Mielografía Columna Lumbosacra": {
+    "codigo": "TAMICO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Abdomen Ped": {
+    "codigo": "TADEAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cavidades Perinasales Nino": {
+    "codigo": "TADECA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Marcación Radioterapia": {
+    "codigo": "TAMARA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Rodilla Izquierda Ped": {
+    "codigo": "TAROIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Cuello Ped": {
+    "codigo": "TAANCU",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Angio TAC Torax Carto": {
+    "codigo": "ANTATO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cardiaco con Medicion de Calcio (TAC Coronario)": {
+    "codigo": "TACACO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Abdomen": {
+    "codigo": "TAANAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Enteroclisis": {
+    "codigo": "TAEN",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Coronario Ninos": {
+    "codigo": "TAANCO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cadera Derecha": {
+    "codigo": "TACADE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Muslo/Femur Derecho": {
+    "codigo": "TAMUDE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Examen Previo NO UC": {
+    "codigo": "EXPRNO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Examen previo NO UC": {
+    "codigo": "EXPRNO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Abd-Pelvis y TAC Colonografía": {
+    "codigo": "TAABY",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Abdomen y Torax": {
+    "codigo": "TADEAB",
+    "tipo": "TAC",
+    "subtipo": "DOBLE",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC TX/ABD/PEL Proyecto Investigación": {
+    "codigo": "TATXPR",
+    "tipo": "TAC",
+    "subtipo": "DOBLE",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Torax Screening (Prot.baja dosis)": {
+    "codigo": "TADETO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC TX/ABD/PEL Ped": {
+    "codigo": "TATXPE",
+    "tipo": "TAC",
+    "subtipo": "DOBLE",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Enteroclisis sin sonda": {
+    "codigo": "TAENSI",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Silla Turca": {
+    "codigo": "TADESI",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Enteroclisis Ped": {
+    "codigo": "TAENPE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Pie Derecho": {
+    "codigo": "TAPIDE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Coloclisis bajo TAC": {
+    "codigo": "TACOBA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Score de Calcio Coronario": {
+    "codigo": "TASCDE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cavidades Perinasales Ped": {
+    "codigo": "TADECA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Score de Calcio": {
+    "codigo": "TASCDE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Artrografía": {
+    "codigo": "TAAR",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Angio TAC Abd-Pelvis Protocolo TAVI": {
+    "codigo": "ANTAAB",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Angio TAC Cardiaco Protocolo TAVI": {
+    "codigo": "ANTACA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cerebro HIFU": {
+    "codigo": "TADECE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Ambas Rodillas": {
+    "codigo": "TAAMRO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Simulación RT Radioterapia": {
+    "codigo": "SIRTRA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Maxilo Facial": {
+    "codigo": "TAMAFA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Pie Izquierdo": {
+    "codigo": "TAPIIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Muñeca Derecha": {
+    "codigo": "TAMUDE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Codo Derecho": {
+    "codigo": "TACODE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Hombro Izquierdo": {
+    "codigo": "TAHOIZ",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Hueso Temporal": {
+    "codigo": "TADEHU",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Hospital TALCA Ped": {
+    "codigo": "TAANHO",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Extremidad": {
+    "codigo": "TAEX",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Estudio Escafoides Derecho Ped": {
+    "codigo": "RXESES",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Derecho AP-L": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Derecho Oblicuos": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Muñeca Derecha AP-L": {
+    "codigo": "RXMUDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Clavicula Der Ped": {
+    "codigo": "RXCLDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Izquierdo AP-L-Oblicuos Ped": {
+    "codigo": "RXANIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cavidades Paranasales Ped": {
+    "codigo": "RXCAPA",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Der AP/L/Oblicuo": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Col. Dorsal AP-L Ped": {
+    "codigo": "RXCODO",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Derecho AP-L-Oblicuos Ped": {
+    "codigo": "RXANDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Col. Lumbar AP-L-5° Espacio Ped": {
+    "codigo": "RXCOLU",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Sacro AP-L Ped": {
+    "codigo": "RXSAAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izq AP/L/Axial Ped": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Codo Derecho AP-L Ped": {
+    "codigo": "RXCODE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izquierdo AP-L-Oblicuo": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Cadera Der AP (1P)": {
+    "codigo": "RXCADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Der AP/L con Apoyo y Oblicuo Ped": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Antebrazo Der AP/L": {
+    "codigo": "RXANDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Der AP/L": {
+    "codigo": "RXPIDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Tobillo Derecho": {
+    "codigo": "TATODE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis AP. Cad AP/Axial Der": {
+    "codigo": "RXPEAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Izq AP/L/Oblicuo Ped": {
+    "codigo": "RXORIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pelvis Inlet-Outlet": {
+    "codigo": "RXPEIN",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Ortejo Der AP/L/Oblicuo Ped": {
+    "codigo": "RXORDE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Sacro-Coxis": {
+    "codigo": "TASA",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Rodilla Izquierda AP-L": {
+    "codigo": "RXROIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Femur Izquierdo AP-L Ped": {
+    "codigo": "RXFEIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Mano Der AP/L": {
+    "codigo": "RXMADE",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Testicular": {
+    "codigo": "DOTE",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pierna Izquierda AP-L Ped": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Estudio Escafoides Izquierdo": {
+    "codigo": "RXESES",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Pie Izq AP/L con Apoyo y Oblicuo Ped": {
+    "codigo": "RXPIIZ",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Renal Portatil": {
+    "codigo": "DOREPO",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Ecografia Pelviana Masculina": {
+    "codigo": "ECPEMA",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Angio Pelvis": {
+    "codigo": "TAANPE",
+    "tipo": "TAC",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Doppler Arterial Ext.Inf.Izq": {
+    "codigo": "DOAREX",
+    "tipo": "OTRO",
+    "subtipo": "DESCONOCIDO",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "RX Abdomen AP PORTÁTIL": {
+    "codigo": "RXABAP",
+    "tipo": "RX",
+    "subtipo": "NORMAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cuello-Tórax-Abdomen": {
+    "codigo": "TACU",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC de Cuello, Tórax y Abdomen": {
+    "codigo": "TADECU1",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Craneo-Cuello-Torax": {
+    "codigo": "TACR",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cerebro-Cuello-Torax": {
+    "codigo": "TACE",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cabeza-Cuello-Torax": {
+    "codigo": "TACA",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Cerebro-Cuello-Abdomen": {
+    "codigo": "TACE1",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC Craneo-Cuello-Torax-Abdomen": {
+    "codigo": "TACR1",
+    "tipo": "TAC",
+    "subtipo": "TRIPLE",
+    "conteo": 1,
+    "primera_vez": "2025-05-05"
+  }
+}

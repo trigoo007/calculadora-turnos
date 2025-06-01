@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  calculadora:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./csv:/app/csv
+      - ./conocimiento:/app/conocimiento
+      - ./logs:/app/logs
+    environment:
+      - STREAMLIT_SERVER_PORT=8501
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+    restart: unless-stopped
+
+  sqlmanager:
+    image: linuxserver/sqlitebrowser:latest
+    ports:
+      - "8503:3000"
+    volumes:
+      - ./conocimiento:/data
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Santiago
+    restart: unless-stopped

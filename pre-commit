@@ -1,0 +1,17 @@
+#\!/bin/bash
+# Hook pre-commit para validar la estructura del proyecto
+# Para instalar manualmente: cp pre-commit .git/hooks/ && chmod +x .git/hooks/pre-commit
+
+echo "Verificando estructura del proyecto antes de commit..."
+python guardian_arquitectura.py
+
+# Si el guardian retorna error, abortar el commit
+if [ $? -ne 0 ]; then
+    echo "Error en la estructura del proyecto. Commit abortado."
+    echo "Ejecute 'python guardian_arquitectura.py --auto-fix' para corregir problemas."
+    exit 1
+fi
+
+echo "Estructura del proyecto correcta. Continuando con el commit."
+exit 0
+EOF < /dev/null

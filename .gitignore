@@ -1,0 +1,48 @@
+**/.claude/settings.local.json
+
+# Archivos generados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Directorios temporales
+temp/
+tmp/
+
+# Logs
+logs/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.venv
+venv/
+ENV/
+
+# Archivos de configuración local
+config.local.py
+
+# Archivos de estado del guardián
+.estructura_estado.json
+guardian_arquitectura.log

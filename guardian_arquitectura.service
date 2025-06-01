@@ -1,0 +1,14 @@
+[Unit]
+Description=Guardian Arquitectura de Calculadora de Turnos
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /opt/calculadora/guardian_arquitectura.py --auto-fix
+WorkingDirectory=/opt/calculadora
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
+EOF < /dev/null

@@ -1,0 +1,12 @@
+[Unit]
+Description=Guardian Arquitectura Timer
+After=network.target
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=1h
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+EOF < /dev/null

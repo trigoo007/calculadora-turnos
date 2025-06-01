@@ -1,0 +1,31 @@
+INSTRUCCIONES PARA SUBIR A GITHUB
+===============================
+
+Ejecuta estos comandos en tu terminal uno por uno:
+
+1. Navegar al directorio:
+   cd /Users/rodrigomunoz/Calculadora
+
+2. Inicializar Git (si no está inicializado):
+   git init
+
+3. Agregar el remoto de GitHub:
+   git remote add origin https://github.com/trigoo007/calculadora-turnos.git
+
+4. Agregar todos los archivos:
+   git add .
+
+5. Hacer el commit inicial:
+   git commit -m "Initial commit - Calculadora de Turnos Radiología"
+
+6. Subir a GitHub:
+   git push -u origin main
+
+Si el paso 6 falla, intenta:
+   git push -u origin master
+
+O si necesitas forzar:
+   git push --set-upstream origin main --force
+
+¡Eso es todo! Tu repositorio estará en:
+https://github.com/trigoo007/calculadora-turnos

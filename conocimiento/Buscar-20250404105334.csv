@@ -1,0 +1,1186 @@
+﻿Número de cita,Prioridad de la solicitud,Estado de verificación de estudios,Fecha del procedimiento programado,Hora del procedimiento programado,Apellidos del paciente,Nombre del paciente,ID del paciente,Nombre del procedimiento,Sala de adquisición,Información de tareas,Fecha del estudio,Estado del informe,Asignado a,Fecha de creación del informe,Edad del paciente
+="9747310","STAT","","09-mar-2025","08:33","SOTO SEPULVEDA","PAOLA ANDREA","15463166-6","Doppler Venoso Ext.Inf.Izq HOS","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 09:56","Validado","","09-mar-2025, 10:33","42 a"
+="9747316","STAT","","09-mar-2025","08:52","MIQUEL MARTINEZ","CRISTINA MIREYA","9035163-K","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 09:26","Validado","","09-mar-2025, 10:33","62 a"
+="9747327","STAT","","09-mar-2025","09:53","MARTINEZ VARGAS","MONICA VIVIANA","7790067-5","RX Pie Derecho AP-L C/Apoyo + Oblicuo","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 10:05","Validado","","09-mar-2025, 10:43","58 a"
+="9747332","STAT","","09-mar-2025","09:45","GONZALEZ CEPEDA","BETZABET MACARENA","13930872-7","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 10:42","Validado","","09-mar-2025, 10:39","44 a"
+="9747345","STAT","","09-mar-2025","10:47","RIVERA SANHUEZA","ISABEL MARGARITA","5140064-K","TAC Angio Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 11:40","Validado","","09-mar-2025, 12:01","86 a"
+="9747348","STAT","","09-mar-2025","10:12","CARRASCO TRIGO","DIVA DEL ROSARIO","7564705-0","RX Rodilla Der AP/L/Axial/Tunel Inter.","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 11:04","Validado","","09-mar-2025, 11:40","66 a"
+="9747361","STAT","","09-mar-2025","10:48","RODRIGUEZ GARCIA","TERESITA","21260966-8","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 12:01","Validado","","09-mar-2025, 12:35","22 a"
+="9747362","STAT","","09-mar-2025","10:48","RODRIGUEZ GARCIA","TERESITA","21260966-8","TAC de Macizo Facial","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 12:01","Validado","","09-mar-2025, 12:35","22 a"
+="9747363","STAT","","09-mar-2025","10:48","RODRIGUEZ GARCIA","TERESITA","21260966-8","TAC de Columna Cervical","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 12:01","Validado","","09-mar-2025, 12:55","22 a"
+="9747372","STAT","","09-mar-2025","10:42","RIDERELLI HERRERA","JOSE DOMINGO","27614828-1","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 10:58","Validado","","09-mar-2025, 11:40","3 a"
+="9747374","STAT","","09-mar-2025","10:48","RODRIGUEZ GARCIA","TERESITA","21260966-8","TAC de Columna Lumbar","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 12:09","Validado","","09-mar-2025, 13:01","22 a"
+="9747379","STAT","","09-mar-2025","10:50","BARROS VAN OOSTERWYK","JOAQUIN ENRIQUE","20678903-4","RX Muñeca Izq AP/L","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","09-mar-2025, 10:52","Validado","","09-mar-2025, 11:36","23 a"
+="9747388","STAT","","09-mar-2025","10:56","SOTO DEL VILLAR","MARIELA VIVIANA DEL ROCIO","8000032-4","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 11:25","Validado","","09-mar-2025, 11:36","63 a"
+="9747403","STAT","","09-mar-2025","11:12","ROMAN FUENTES","BENITO AURELIO","28148180-0","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 11:27","Validado","","09-mar-2025, 11:38","22 m"
+="9747404","STAT","","09-mar-2025","11:20","TORRES DURAN","LUCIA BEATRIZ","12871056-6","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 12:26","Validado","","09-mar-2025, 12:41","49 a"
+="9747415","STAT","","09-mar-2025","11:42","ACEVEDO PEREZ","MATILDE","24850454-4","RX Pie Izquierdo AP-L C/Apoyo + Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 11:54","Validado","","09-mar-2025, 11:58","10 a"
+="9747423","STAT","","09-mar-2025","11:43","ZAPATA PASTENE","ESTEBAN EDUARDO","21262873-5","RX Dedo Derecho AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 11:57","Validado","","09-mar-2025, 12:02","22 a"
+="9747447","STAT","","09-mar-2025","12:08","QUILAQUEO FARIAS","LAURA ELENA","27330736-2","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 12:20","Validado","","09-mar-2025, 12:20","4 a"
+="9747455","STAT","","09-mar-2025","12:14","QUIJADA BASCUNAN","MARIA LORETO","8343959-9","RX Parrilla Costal Izq AP/Oblicua","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 12:39","Validado","","09-mar-2025, 13:05","57 a"
+="9747460","STAT","","09-mar-2025","12:16","BARROS VAN OOSTERWYK","JOAQUIN ENRIQUE","20678903-4","TAC Muñeca Izquierda","SJ Tac 4","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","09-mar-2025, 12:17","Validado","","09-mar-2025, 13:07","23 a"
+="9747464","STAT","","09-mar-2025","12:23","MENDOZA MENDOZA","HEIZER","26014667-K","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 12:51","Validado","","09-mar-2025, 13:04","19 a"
+="9747470","STAT","","09-mar-2025","12:35","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","RX Muñeca Izq AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 13:32","Validado","","09-mar-2025, 14:31","78 a"
+="9747471","STAT","","09-mar-2025","12:35","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","RX Rodilla Izq AP/L/Axial","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 13:29","Validado","","09-mar-2025, 14:55","78 a"
+="9747476","STAT","","09-mar-2025","12:53","VIAL PEREZ","ENRIQUE","23447488-K","TAC Torax-Abdomen-Pelvis Ped","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 14:08","Validado","","09-mar-2025, 15:08","14 a"
+="9747477","STAT","","09-mar-2025","12:52","VIAL PEREZ","ENRIQUE","23447488-K","RX Antebrazo Derecho AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 13:08","Validado","","09-mar-2025, 13:28","14 a"
+="9747478","STAT","","09-mar-2025","12:53","VIAL PEREZ","ENRIQUE","23447488-K","RX Codo Derecho AP-L-Oblicuos Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 13:08","Validado","","09-mar-2025, 13:26","14 a"
+="9747487","STAT","","09-mar-2025","12:57","MUNOZ DEL RIO","BALTAZAR","28296759-6","RX Pie Derecho AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 13:21","Validado","","09-mar-2025, 13:27","16 m"
+="9747490","STAT","","09-mar-2025","13:02","SAGREDO CASTRO-MADERO","MARTIN","24596759-4","TAC Pielografia","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:58","Validado","","09-mar-2025, 14:42","10 a"
+="9747491","STAT","","09-mar-2025","13:02","SAGREDO CASTRO-MADERO","MARTIN","24596759-4","TAC de Cerebro Nino","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:58","Validado","","09-mar-2025, 15:39","10 a"
+="9747492","STAT","","09-mar-2025","13:02","SAGREDO CASTRO-MADERO","MARTIN","24596759-4","RX Torax (2P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado)","09-mar-2025, 13:21","Validado","","09-mar-2025, 14:02","10 a"
+="9747494","STAT","","09-mar-2025","13:03","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","TAC de Cavidades Perinasales","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 12:41","Validado","","09-mar-2025, 15:29","78 a"
+="9747495","STAT","","09-mar-2025","13:03","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 12:41","Validado","","09-mar-2025, 15:29","78 a"
+="9747498","STAT","","09-mar-2025","13:04","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","RX Torax AP","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 13:19","Validado","","09-mar-2025, 14:12","78 a"
+="9747499","STAT","","09-mar-2025","13:04","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","RX Ambas Parrillas Costales","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 13:22","Validado","","09-mar-2025, 15:05","78 a"
+="9747503","STAT","","09-mar-2025","13:26","MERINO MORALES","ELIAS NIBALDO","13927476-8","Doppler Venoso Ext.Inf.Izq HOS","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 13:47","Validado","","09-mar-2025, 14:10","48 a"
+="9747505","STAT","","09-mar-2025","13:57","LOVATO FLORES RETZLAFF NUNES","PEDRO","R607508-8","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 14:10","Validado","","09-mar-2025, 14:41","4 a"
+="9747506","STAT","","09-mar-2025","13:57","LOVATO FLORES RETZLAFF NUNES","LAURA","R614462-4","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 14:14","Validado","","09-mar-2025, 14:45","12 m"
+="9747508","STAT","","09-mar-2025","13:33","FLORES FLORES","INES DEL CARMEN","4728896-7","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:40","Validado","","09-mar-2025, 15:17","89 a"
+="9747513","STAT","","09-mar-2025","13:41","MUNOZ NARANJO","LEONIDAS DEL CARMEN","6951539-8","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:11","Validado","","09-mar-2025, 15:25","69 a"
+="9747514","STAT","","09-mar-2025","13:42","MUNOZ NARANJO","LEONIDAS DEL CARMEN","6951539-8","TAC de Columna Lumbar","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:11","Validado","","09-mar-2025, 14:51","69 a"
+="9747515","STAT","","09-mar-2025","13:42","MUNOZ NARANJO","LEONIDAS DEL CARMEN","6951539-8","TAC de Columna Cervical","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:11","Validado","","09-mar-2025, 14:51","69 a"
+="9747516","STAT","","09-mar-2025","13:42","MUNOZ NARANJO","LEONIDAS DEL CARMEN","6951539-8","TAC de Torax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:11","Validado","","09-mar-2025, 15:25","69 a"
+="9747517","STAT","","09-mar-2025","13:42","MUNOZ NARANJO","LEONIDAS DEL CARMEN","6951539-8","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:11","Validado","","09-mar-2025, 15:04","69 a"
+="9747518","STAT","","09-mar-2025","13:42","MALDONADO AGURTO","MONICA DEL PILAR","10533378-1","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:20","Validado","","09-mar-2025, 14:47","61 a"
+="9747526","STAT","","09-mar-2025","13:52","SAGREDO CASTRO-MADERO","MARTIN","24596759-4","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 13:47","Validado","","09-mar-2025, 14:12","10 a"
+="9747527","STAT","","09-mar-2025","13:58","GARCIA-HUIDOBRO JIGINS","MARIA PAZ","13832393-5","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 14:24","Validado","","09-mar-2025, 14:50","44 a"
+="9747528","STAT","","09-mar-2025","14:01","LEAL CARRERA","EMMA AMAIA","25504542-3","RX Pie Der AP/L/Oblicuo Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:26","Validado","","09-mar-2025, 15:14","8 a"
+="9747531","STAT","","09-mar-2025","14:02","MUNOZ NARANJO","LEONIDAS DEL CARMEN","6951539-8","TAC de Cavidades Perinasales","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 13:11","Validado","","09-mar-2025, 15:48","69 a"
+="9747534","STAT","","09-mar-2025","14:04","GARCIA-HUIDOBRO TRINCADO","MARIA IGNACIA","23824868-K","RX Ambas Rodillas AP/L/Axial Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:53","Validado","","09-mar-2025, 16:28","13 a"
+="9747535","STAT","","09-mar-2025","14:04","GARCIA-HUIDOBRO TRINCADO","MARIA IGNACIA","23824868-K","RX Clavícula Izq Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:49","Validado","","09-mar-2025, 16:14","13 a"
+="9747536","STAT","","09-mar-2025","14:04","GARCIA-HUIDOBRO TRINCADO","MARIA IGNACIA","23824868-K","RX Hombro Izq (3P) Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:45","Validado","","09-mar-2025, 16:14","13 a"
+="9747537","STAT","","09-mar-2025","14:04","GARCIA-HUIDOBRO TRINCADO","MARIA IGNACIA","23824868-K","RX Humero Izq AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:50","Validado","","09-mar-2025, 16:25","13 a"
+="9747538","STAT","","09-mar-2025","14:04","GARCIA-HUIDOBRO TRINCADO","MARIA IGNACIA","23824868-K","RX Ambas Manos AP/L/Oblicua Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 14:32","Validado","","09-mar-2025, 15:59","13 a"
+="9747539","STAT","","09-mar-2025","14:18","ROJAS SOTO","CRISTIAN ALEJANDRO","24845978-6","RX Ortejo Derecho AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 14:33","Validado","","09-mar-2025, 16:01","10 a"
+="9747540","STAT","","09-mar-2025","14:08","ALISTE VALDIVIA","GLORIA BEATRIZ","10924026-5","RX Rodilla Izq AP/L/Axial/Tunel Inter.","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 15:07","Validado","","09-mar-2025, 15:46","54 a"
+="9747541","STAT","","09-mar-2025","14:19","MIRANDA SCHLEYER","GABRIEL PABLO","13681563-6","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 14:45","Validado","","09-mar-2025, 16:05","45 a"
+="9747543","STAT","","09-mar-2025","14:19","JORQUERA PAREDES","RENATO ALONSO","24722926-4","Ecografia Abdominal Ped","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 14:45","Validado","","09-mar-2025, 15:15","10 a"
+="9747547","STAT","","09-mar-2025","14:26","GARCIA TORREJON","VICENTE JAVIER","24941909-5","RX Codo Derecho AP-L-Oblicuos Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 14:38","Validado","","09-mar-2025, 16:10","10 a"
+="9747549","STAT","","09-mar-2025","14:43","MELENDEZ RAMIREZ","CAMILA ISABEL","25366259-K","TAC de Orbitas Ped","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 14:59","Validado","","09-mar-2025, 15:48","8 a"
+="9747551","STAT","","09-mar-2025","14:33","CASTELLON TORO","PATRICIA EUFEMIA","5616587-8","TAC Muñeca Izquierda","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 14:54","Validado","","09-mar-2025, 16:34","78 a"
+="9747564","STAT","","09-mar-2025","15:15","ALBORNOZ ROA","ALEJANDRO ENRIQUE","2783483-3","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 15:52","Validado","","09-mar-2025, 16:27","96 a"
+="9747569","STAT","","09-mar-2025","15:17","GAETE RODRIGUEZ","MARCOS ANDRES","15167806-8","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 15:21","Validado","","09-mar-2025, 16:33","41 a"
+="9747573","STAT","","09-mar-2025","15:27","RIOS SANCHEZ","MATILDA ELISA","22246513-3","RX Tobillo Derecho AP-L-Oblicuo C/Apoyo","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 15:41","Validado","","09-mar-2025, 16:32","18 a"
+="9747582","STAT","","09-mar-2025","15:51","MOYA DIAZ","PATRICIA ALEJANDRA","13927383-4","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 16:32","Validado","","09-mar-2025, 16:38","45 a"
+="9747592","STAT","","09-mar-2025","16:03","JAHNSEN SZOTYORI -NAGY","JANNA SABINE","27608039-3","TAC de Orbitas Ped","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 19:40","Validado","","09-mar-2025, 20:57","3 a"
+="9747606","STAT","","09-mar-2025","16:23","SANTANDER HERNANDEZ","VANESSA","16339539-8","RX Ortejo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 16:41","Validado","","09-mar-2025, 16:49","39 a"
+="9747627","STAT","","09-mar-2025","16:54","RIOS DIAZ","RODRIGO IGNACIO","22653785-6","RX Pie Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 17:27","Validado","","09-mar-2025, 17:49","17 a"
+="9747628","STAT","","09-mar-2025","16:54","RIOS DIAZ","RODRIGO IGNACIO","22653785-6","RX Tobillo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 17:28","Validado","","09-mar-2025, 17:49","17 a"
+="9747629","STAT","","09-mar-2025","16:54","RIOS DIAZ","RODRIGO IGNACIO","22653785-6","RX Pierna Der AP/L/Oblicua","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 17:31","Validado","","09-mar-2025, 17:49","17 a"
+="9747632","STAT","","09-mar-2025","16:59","ALBORNOZ ROA","ALEJANDRO ENRIQUE","2783483-3","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 17:25","Validado","","09-mar-2025, 19:37","96 a"
+="9747633","STAT","","09-mar-2025","16:59","ALBORNOZ ROA","ALEJANDRO ENRIQUE","2783483-3","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 17:25","Validado","","09-mar-2025, 19:22","96 a"
+="9747648","STAT","","09-mar-2025","17:33","PEREZ CVJETKOVIC","IVANA IVONNE","16636637-2","RX Rodilla Izq AP/L/Axial","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 18:42","Validado","","09-mar-2025, 19:32","37 a"
+="9747649","STAT","","09-mar-2025","17:41","CORBALAN STEVENS","PAOLA FERNANDA","12404453-7","RX Ortejo Izquierdo AP-L-Oblicuo","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 18:02","Validado","","09-mar-2025, 18:22","51 a"
+="9747651","STAT","","09-mar-2025","17:34","JUAREZ ZAVALETA","CLAUDIA ALEJANDRA","11339666-0","RX Pie Izq AP/L/Oblicuo","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","09-mar-2025, 17:51","Validado","","09-mar-2025, 18:37","56 a"
+="9747652","STAT","","09-mar-2025","17:36","ABUID FIGUEROA","PAMELA","R610992-6","TAC Pelvis Osea","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 17:09","Validado","","09-mar-2025, 20:09","36 a"
+="9747653","STAT","","09-mar-2025","17:36","ZAPATA ROWE","XIMENA ANDREA","13904698-6","Ecografia Partes Blandas","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 18:34","Validado","","09-mar-2025, 19:02","44 a"
+="9747655","STAT","","09-mar-2025","17:36","CORDERO MOLINA","ALICIA DEL CARMEN","4107826-K","RX Muñeca Izq AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 18:36","Validado","","09-mar-2025, 19:11","84 a"
+="9747665","STAT","","09-mar-2025","17:49","SANHUEZA PETERS","BENJAMIN HERNAN","27582785-1","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 18:08","Validado","","09-mar-2025, 18:32","3 a"
+="9747669","STAT","","09-mar-2025","17:54","CISTERNAS CHACRA","CLEMENTE","27693111-3","RX Antebrazo Der AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 18:10","Validado","","09-mar-2025, 18:49","3 a"
+="9747674","STAT","","09-mar-2025","18:13","CERON ALVAREZ","MARTINA ANDREA","22059108-5","RX Columna Lumbar AP/Lateral/5o Espacio","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","09-mar-2025, 18:17","Validado","","09-mar-2025, 18:58","19 a"
+="9747686","STAT","","09-mar-2025","18:22","MONTOYA ZAHN","PETER HERMAN DEL CARMEN","9286528-2","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 19:04","Validado","","09-mar-2025, 20:37","61 a"
+="9747687","STAT","","09-mar-2025","18:18","SAMBRA LOPEZ","BASHIR EMILIO","21571657-0","RX Rodilla Izquierda AP-L-Axial-Rosenberg","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 18:42","Validado","","09-mar-2025, 20:32","20 a"
+="9747688","STAT","","09-mar-2025","18:23","EASTMAN FIGUEROA","CRISTOBAL IGNACIO","17168355-6","Ecografia Partes Blandas","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 19:17","Validado","","09-mar-2025, 19:40","35 a"
+="9747691","STAT","","09-mar-2025","18:28","BOUCHETTE GONZALEZ","TOMAS IGNACIO","24209951-6","RX Muñeca Derecha AP-L Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 18:39","Validado","","09-mar-2025, 19:27","12 a"
+="9747696","STAT","","09-mar-2025","18:32","SAGREDO CASTRO-MADERO","MARTIN","24596759-4","RX Abdomen AP PORTÁTIL Ped","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 18:42","Validado","","09-mar-2025, 19:59","10 a"
+="9747709","STAT","","09-mar-2025","18:56","MORA TOLOZA","FLORINA","3466669-5","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 19:21","Validado","","09-mar-2025, 20:55","93 a"
+="9747718","STAT","","09-mar-2025","19:07","CORDERO MOLINA","ALICIA DEL CARMEN","4107826-K","RX Muñeca Izq AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 19:31","Validado","","09-mar-2025, 19:50","84 a"
+="9747728","STAT","","09-mar-2025","19:24","HOJMAN DUMAY","SIMON","24299066-8","RX Dedo Izquierdo AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 19:32","Validado","","09-mar-2025, 20:53","11 a"
+="9747731","STAT","","09-mar-2025","19:26","PERALTA NAVARRETE","LUISA ISABEL","7412008-3","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 19:31","Validado","","09-mar-2025, 21:04","70 a"
+="9747732","STAT","","09-mar-2025","19:26","PERALTA NAVARRETE","LUISA ISABEL","7412008-3","RX Pie Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 19:59","Validado","","09-mar-2025, 21:10","70 a"
+="9747733","STAT","","09-mar-2025","19:26","PERALTA NAVARRETE","LUISA ISABEL","7412008-3","RX Tobillo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 20:01","Validado","","09-mar-2025, 21:10","70 a"
+="9747747","STAT","","09-mar-2025","19:51","CORDERO MOLINA","ALICIA DEL CARMEN","4107826-K","RX Muñeca Izq AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 20:21","Validado","","09-mar-2025, 21:53","84 a"
+="9747750","STAT","","09-mar-2025","20:02","DIAZ GONZALEZ","JAVIERA CONSTANZA","20754186-9","TAC Pielografia (PIELOTAC)","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 20:33","Validado","","09-mar-2025, 20:55","23 a"
+="9747760","STAT","","09-mar-2025","20:25","VERGARA GUZMAN","MARIA FRANCISCA","9327936-0","Doppler Venoso Ext.Inf Der","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 20:38","Validado","","09-mar-2025, 21:06","46 a"
+="9747763","STAT","","09-mar-2025","20:25","LEIVA PEREZ","OSCAR ALEJO","5998704-6","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 20:00","Validado","","09-mar-2025, 21:24","76 a"
+="9747765","STAT","","09-mar-2025","20:28","GOMEZ ERGAS","VICTOR HUGO","9665992-K","RX Torax AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 20:37","Validado","","09-mar-2025, 22:04","58 a"
+="9747770","STAT","","09-mar-2025","20:47","GUZMAN CABALLERO","CAMILA ALEJANDRA","18540914-7","TAC Pielografia (PIELOTAC)","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 22:25","Validado","","09-mar-2025, 23:14","31 a"
+="9747771","STAT","","09-mar-2025","20:43","VALENZUELA MUNOZ","LUCIANO ALONSO","24301876-5","RX Antebrazo Izq AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 21:08","Validado","","09-mar-2025, 22:34","11 a"
+="9747772","STAT","","09-mar-2025","20:44","VALENZUELA MUNOZ","LUCIANO ALONSO","24301876-5","RX Humero Izq AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 21:05","Validado","","09-mar-2025, 22:34","11 a"
+="9747774","STAT","","09-mar-2025","20:46","NOSEDA GUTIERREZ","JANET FIORELLA","15335447-2","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 20:17","Validado","","09-mar-2025, 21:25","43 a"
+="9747779","STAT","","09-mar-2025","21:01","LETELIER ARRIAGADA","MATEO AGUSTIN","26024752-2","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 21:33","Validado","","09-mar-2025, 22:46","7 a"
+="9747780","STAT","","09-mar-2025","21:01","LETELIER ARRIAGADA","MATEO AGUSTIN","26024752-2","RX Ambas Parrillas Costales","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 21:36","Validado","","09-mar-2025, 22:46","7 a"
+="9747782","STAT","","09-mar-2025","20:58","AVILA LIZAMA","MATIAS RODRIGO","24420595-K","RX Rodilla Derecha AP-L-Axial-Rosenberg Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 21:09","Validado","","09-mar-2025, 22:43","14 a"
+="9747791","STAT","","09-mar-2025","21:23","COCK FLORES","NATALY ANDREA","18212150-9","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 23:32","Validado","","10-mar-2025, 01:31","32 a"
+="9747792","STAT","","09-mar-2025","21:30","HERRERA LOUBSCHEN","DANNY","6812204-K","RX Torax AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 22:26","Validado","","09-mar-2025, 23:25","68 a"
+="9747796","STAT","","09-mar-2025","21:30","PANATT OLIVARES","VICENTE","23766689-5","RX Codo Izquierdo AP-L Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 22:20","Validado","","09-mar-2025, 23:21","13 a"
+="9747797","STAT","","09-mar-2025","21:30","PANATT OLIVARES","VICENTE","23766689-5","RX Codo Izquierdo Oblicuos Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 22:21","Validado","","09-mar-2025, 23:21","13 a"
+="9747801","STAT","","09-mar-2025","21:28","PIZARRO LE ROY","VIRGINIA PATRICIA","12134981-7","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 21:58","Validado","","09-mar-2025, 23:04","66 a"
+="9747802","STAT","","09-mar-2025","22:05","ARANDA SANDOVAL","MARIA JOSE","17483485-7","TAC de Columna Lumbar","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 22:37","Validado","","09-mar-2025, 23:19","34 a"
+="9747803","STAT","","09-mar-2025","22:05","ARANDA SANDOVAL","MARIA JOSE","17483485-7","TAC Torax Oseo","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 22:37","Validado","","09-mar-2025, 23:23","34 a"
+="9747809","STAT","","09-mar-2025","21:50","MORENO VALENZUELA","MARIA","4775609-K","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 22:20","Validado","","09-mar-2025, 23:07","80 a"
+="9747815","STAT","","09-mar-2025","21:52","PINONES HINOJOSA","SOFIA AINHOA","24745017-3","RX Columna Cervical AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 22:09","Validado","","09-mar-2025, 22:53","10 a"
+="9747822","STAT","","09-mar-2025","22:19","CURIANTE GONZALEZ","GLADYS DEL CARMEN","14380110-1","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 23:15","Validado","","10-mar-2025, 01:17","47 a"
+="9747825","STAT","","09-mar-2025","22:21","SCHMIDT URDANETA","MATTEO ALEJANDRO","28462187-5","Rx Pelvis AP/Lowenstein < 6 años Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 22:33","Validado","","09-mar-2025, 23:01","9 m"
+="9747827","STAT","","09-mar-2025","22:24","RIVAS RIVAS","LEONEL EDGARDO","12643960-1","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 23:03","Validado","","09-mar-2025, 23:55","51 a"
+="9747828","STAT","","09-mar-2025","22:49","MONTES CASTILLO","NICOLAS","22908614-6","RX Huesos Propios de la Nariz","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 23:15","Validado","","09-mar-2025, 23:54","16 a"
+="9747829","STAT","","09-mar-2025","22:37","MUNDACA MORALES","PALOMA CRISTINA","21251476-4","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","09-mar-2025, 23:06","Validado","","09-mar-2025, 23:56","22 a"
+="9747847","STAT","","09-mar-2025","23:12","ARAYA CASTRO","SUJEY IVONNE","13914599-2","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 22:42","Validado","","10-mar-2025, 00:21","44 a"
+="9747849","STAT","","09-mar-2025","23:15","MAGGI MUNOZ","MACARENA SOFIA","18169110-7","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 23:28","Validado","","09-mar-2025, 23:59","32 a"
+="9747856","STAT","","09-mar-2025","23:37","SEGAN .","ROBERT BRUCE","27547574-2","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 23:54","Validado","","10-mar-2025, 00:47","45 a"
+="9747862","STAT","","09-mar-2025","23:34","NUNEZ LEYTON","GLORIA ADRIANA","6005917-9","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 23:01","Validado","","10-mar-2025, 00:49","75 a"
+="9747868","STAT","","09-mar-2025","23:56","GODOY FUENTES","BENJAMIN EMILIO","25960141-K","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 00:25","Validado","","10-mar-2025, 01:24","7 a"
+="9747875","STAT","","10-mar-2025","00:18","ARCILA OLMEDO","MATEO","22300700-7","RX Humero Derecho AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","10-mar-2025, 00:34","Validado","","10-mar-2025, 01:25","18 a"
+="9747878","STAT","","10-mar-2025","00:27","MUNDACA MORALES","PALOMA CRISTINA","21251476-4","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","09-mar-2025, 23:52","Validado","","10-mar-2025, 01:35","22 a"
+="9747879","STAT","","10-mar-2025","00:26","LEA-PLAZA EDWARDS","PEDRO ENRIQUE","7013487-K","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","10-mar-2025, 00:44","Validado","","10-mar-2025, 01:38","62 a"
+="9747880","STAT","","10-mar-2025","00:28","ROJAS VEAS","MANUEL JOVINO","8726934-5","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 01:08","Validado","","10-mar-2025, 01:26","64 a"
+="9747881","STAT","","10-mar-2025","00:28","ROJAS VEAS","MANUEL JOVINO","8726934-5","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","10-mar-2025, 00:09","Validado","","10-mar-2025, 01:36","64 a"
+="9747882","STAT","","10-mar-2025","00:43","ALVAREZ INFANTE","LUZ IVONNE","7415380-1","TAC Pielografia (PIELOTAC)","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","10-mar-2025, 01:06","Validado","","10-mar-2025, 01:42","56 a"
+="9747883","STAT","","10-mar-2025","00:41","SALAZAR SALAZAR","NINOSKA CONSTANZA","20633265-4","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 01:03","Validado","","10-mar-2025, 01:26","24 a"
+="9747890","STAT","","10-mar-2025","01:25","YANEZ ARAYA","PAULINA EMERIT","15931345-K","RX Codo Izq AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 01:40","Validado","","10-mar-2025, 01:50","39 a"
+="9747891","STAT","","10-mar-2025","01:25","YANEZ ARAYA","PAULINA EMERIT","15931345-K","RX Antebrazo Izq AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 01:41","Validado","","10-mar-2025, 01:50","39 a"
+="9747893","STAT","","10-mar-2025","01:47","POBLETE GARCIA","JOSEFINA ALEJANDRA","16017354-8","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","10-mar-2025, 01:52","Validado","","10-mar-2025, 03:05","39 a"
+="9747894","STAT","","10-mar-2025","01:59","RODRIGUEZ SALCEDO","DIANA","27075288-8","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","10-mar-2025, 01:17","Validado","","10-mar-2025, 02:49","26 a"
+="9747896","STAT","","10-mar-2025","03:14","ARRIAGADA NORAMBUENA","CARLOS","7109294-1","RX Torax AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","10-mar-2025, 03:22","Validado","","10-mar-2025, 03:23","68 a"
+="9747897","STAT","","10-mar-2025","03:43","REINOSO VALENZUELA","RICARDO SEBASTIAN","16392195-2","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","10-mar-2025, 03:12","Validado","","10-mar-2025, 06:52","38 a"
+="9747902","STAT","","10-mar-2025","04:57","PEREZ ROA","CAROLINA ALEJANDRA","16888398-6","Ecografia Abdominal","HOS ECO 4","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (IMG, RADIOLOGO - completado)","10-mar-2025, 05:12","Validado","","10-mar-2025, 05:38","36 a"
+="9747904","STAT","","10-mar-2025","06:00","VASQUEZ HERNANDEZ","HILDA CAROLINA","13446816-5","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 06:34","Validado","","10-mar-2025, 07:22","47 a"
+="9747907","STAT","","10-mar-2025","07:20","MELLADO TALESNIK","PATRICIO","10217456-9","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","10-mar-2025, 07:22","Validado","","10-mar-2025, 07:42","56 a"
+="9747908","STAT","","10-mar-2025","06:27","ORTEGA GUTIERREZ","RUBEN ANDRES","19794047-6","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","10-mar-2025, 05:40","Validado","","10-mar-2025, 07:04","26 a"
+="9783680","STAT","","19-mar-2025","17:32","MATUS PALACIOS","JUAN JOSE","10042543-2","TAC Angio Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 18:42","Validado","","19-mar-2025, 19:27","45 a"
+="9783944","STAT","","19-mar-2025","17:18","MENDEZ MORALES","MARCELA ALEJANDRA","12267848-2","RX Torax AP/L","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Farias Tudela, Susana - completado)","19-mar-2025, 17:30","Validado","","19-mar-2025, 18:34","53 a"
+="9784203","STAT","","19-mar-2025","17:50","CONTRERAS SOLIS","SCARLET","23169988-0","TAC de Abdomen y Pelvis","SJ Tac 4","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Rojas Cantillana, Roberto - completado)","19-mar-2025, 17:48","Validado","","19-mar-2025, 18:38","15 a"
+="9784245","STAT","","19-mar-2025","17:46","MEDRANO DE LA CRUZ","LAURA","25305796-3","RX Rodilla Izquierda AP-L-Axial Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 17:49","Validado","","19-mar-2025, 18:53","9 a"
+="9784258","STAT","","19-mar-2025","17:50","ARIZABALO VALLE","HORTENSIA","3189910-9","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Vidal Olivares, Jose - completado)","19-mar-2025, 18:22","Validado","","19-mar-2025, 18:42","90 a"
+="9784259","STAT","","19-mar-2025","17:50","ARIZABALO VALLE","HORTENSIA","3189910-9","TAC de Cavidades Perinasales","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vidal Olivares, Jose - completado)","19-mar-2025, 18:22","Validado","","19-mar-2025, 18:59","90 a"
+="9784264","STAT","","19-mar-2025","17:59","PEREZ SOTO","EMILIA","25639550-9","RX Tobillo Izq AP/L/Oblicuo con Apoyo Ped","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","19-mar-2025, 18:11","Validado","","19-mar-2025, 19:03","9 a"
+="9784267","STAT","","19-mar-2025","17:56","VALLEJOS FUENTES","FRANCISCO JAVIER","13321934-K","TAC de Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vidal Olivares, Jose - completado)","19-mar-2025, 18:48","Validado","","19-mar-2025, 19:09","47 a"
+="9784277","STAT","","19-mar-2025","18:24","ORDENES ARRIAZA","OSCAR IVAN OCTAVIO","3685345-K","RX Mano Der AP/L/Oblicua","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","19-mar-2025, 18:33","Validado","","19-mar-2025, 19:08","82 a"
+="9784278","STAT","","19-mar-2025","18:24","ORDENES ARRIAZA","OSCAR IVAN OCTAVIO","3685345-K","RX Muñeca Der AP/L/Oblicua","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","19-mar-2025, 18:34","Validado","","19-mar-2025, 19:08","82 a"
+="9784280","STAT","","19-mar-2025","17:56","MILLAN ACUNA","NITZA HELENA","11836460-0","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Villarroel Meza, Alex - completado)","19-mar-2025, 18:45","Validado","","19-mar-2025, 19:19","54 a"
+="9784303","STAT","","19-mar-2025","18:01","MENA RIVERA","ANTONIA CATALINA","21340672-8","RX Mano Der AP/L/Oblicua","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 18:20","Validado","","19-mar-2025, 18:35","21 a"
+="9784326","STAT","","19-mar-2025","18:17","NAHUELQUIN NEIPAN","RODOLFO","24294916-1","RX Pie Der AP/L/Oblicuo Ped","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","19-mar-2025, 18:46","Validado","","19-mar-2025, 19:30","11 a"
+="9784333","STAT","","19-mar-2025","18:17","GUADALUPE OLIVERA","LUCIANO IGNACIO","24977301-8","RX Tobillo Izq AP/L/Oblicuo con Apoyo Ped","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Aprobar (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","19-mar-2025, 18:54","Validado","","19-mar-2025, 19:42","9 a"
+="9784342","STAT","","19-mar-2025","18:18","KLEIS JALIL","TEODORO WOLF","23724143-6","RX Dedo Izq  AP/L/Oblicuo Ped","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","19-mar-2025, 19:02","Validado","","19-mar-2025, 19:50","13 a"
+="9784409","STAT","","19-mar-2025","18:38","SALVATIERRA RIOS","FACUNDO RICARDO","23596414-7","RX Dedo Derecho AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 18:52","Validado","","19-mar-2025, 19:39","14 a"
+="9784410","STAT","","19-mar-2025","18:39","SALVATIERRA RIOS","FACUNDO RICARDO","23596414-7","RX Tobillo Izquierdo AP-L-Oblicuo C/Apoyo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 18:52","Validado","","19-mar-2025, 19:36","14 a"
+="9784428","STAT","","19-mar-2025","18:41","VILLAVERDE POBLETE","VALENTINA ELOISA","22388518-7","RX Pie Izq AP/L con Apoyo y Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 19:14","Validado","","19-mar-2025, 19:53","17 a"
+="9784431","STAT","","19-mar-2025","18:49","MUNOZ BRAVO","VICTORIA","26762450-K","RX Dedo Der AP/L/Oblicuo Ped","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","19-mar-2025, 18:56","Validado","","19-mar-2025, 19:42","6 a"
+="9784452","STAT","","19-mar-2025","18:48","FUENTES ESPINOZA","ROSINA MARIANELA","5049713-5","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Villarroel Meza, Alex - completado)","19-mar-2025, 19:19","Validado","","19-mar-2025, 20:04","81 a"
+="9784453","STAT","","19-mar-2025","18:49","FUENTES ESPINOZA","ROSINA MARIANELA","5049713-5","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 19:55","Validado","","19-mar-2025, 20:13","81 a"
+="9784454","STAT","","19-mar-2025","18:49","FUENTES ESPINOZA","ROSINA MARIANELA","5049713-5","TAC de Columna Cervical","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Villarroel Meza, Alex - completado)","19-mar-2025, 19:19","Validado","","19-mar-2025, 20:04","81 a"
+="9784456","STAT","","19-mar-2025","18:49","FUENTES ESPINOZA","ROSINA MARIANELA","5049713-5","RX Hombro Izq (3P)","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 19:49","Validado","","19-mar-2025, 20:27","81 a"
+="9784457","STAT","","19-mar-2025","18:49","FUENTES ESPINOZA","ROSINA MARIANELA","5049713-5","RX Codo Izq AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 19:45","Validado","","19-mar-2025, 20:27","81 a"
+="9784459","STAT","","19-mar-2025","18:49","FUENTES ESPINOZA","ROSINA MARIANELA","5049713-5","RX Tobillo Izq AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 19:42","Validado","","19-mar-2025, 20:23","81 a"
+="9784460","STAT","","19-mar-2025","18:50","DOMINGUEZ FLORES","MARCELO IGNACIO","16955781-0","Ecografia Abdominal","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (IMG, RADIOLOGO - completado)","19-mar-2025, 19:25","Validado","","19-mar-2025, 19:59","36 a"
+="9784496","STAT","","19-mar-2025","19:01","SIERRA MANCILLA","MARIA GRACIA","26713482-0","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","19-mar-2025, 19:37","Validado","","19-mar-2025, 20:19","6 a"
+="9784497","STAT","","19-mar-2025","19:06","MADRID GARNICA","ANDRES","24866216-6","RX Mano Derecha AP-L-Oblicua Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:16","Validado","","19-mar-2025, 19:57","10 a"
+="9784512","STAT","","19-mar-2025","19:08","PEREZ JERIA","PATRICIA BARBARA","9615025-3","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 20:08","Validado","","19-mar-2025, 21:03","52 a"
+="9784521","STAT","","19-mar-2025","19:18","PANUSSIS PENA","MARIA HELENA","8966451-9","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:40","Validado","","19-mar-2025, 20:10","63 a"
+="9784534","STAT","","19-mar-2025","19:19","IZQUIERDO RENGIFO","JACINTA","23745312-3","RX Muñeca Izquierda AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:30","Validado","","19-mar-2025, 20:19","13 a"
+="9784542","STAT","","19-mar-2025","19:17","GENES PALOMINOS","DAMIAN ANTONIO","23685754-9","RX Muñeca Izq AP/L Ped","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 19:54","Validado","","19-mar-2025, 20:38","13 a"
+="9784543","STAT","","19-mar-2025","19:17","GENES PALOMINOS","DAMIAN ANTONIO","23685754-9","RX Antebrazo Izq AP/L Ped","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 19:54","Validado","","19-mar-2025, 20:38","13 a"
+="9784552","STAT","","19-mar-2025","19:22","VARGAS AVENDANO","EMILIO JESUS","4465057-6","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 19:26","Validado","","19-mar-2025, 20:08","80 a"
+="9784557","STAT","","19-mar-2025","19:24","MORENO VELIZ","CARMEN GRACIELA","4195701-8","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","19-mar-2025, 20:01","Validado","","19-mar-2025, 20:15","89 a"
+="9784560","STAT","","19-mar-2025","20:01","ESCALONA VASQUEZ","EMILIANO","16497026-4","TAC Angio Tórax","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 20:23","Validado","","19-mar-2025, 21:22","38 a"
+="9784568","STAT","","19-mar-2025","19:31","FERREIRA DAZA","VICENTE ARTURO","24003970-2","TAC de Cerebro Nino","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 20:21","Validado","","19-mar-2025, 21:17","12 a"
+="9784572","STAT","","19-mar-2025","19:35","DIAZ SEGURA","SOFIA IGNACIA","24923717-5","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 20:13","Validado","","19-mar-2025, 21:17","10 a"
+="9784588","STAT","","19-mar-2025","19:41","LABRA DUISBERG","ALBERTO","23868500-1","RX Pierna Derecha AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:52","Validado","","19-mar-2025, 20:33","13 a"
+="9784589","STAT","","19-mar-2025","19:46","LABRA DUISBERG","ALBERTO","23868500-1","RX Tobillo Derecho AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:52","Validado","","19-mar-2025, 20:33","13 a"
+="9784590","STAT","","19-mar-2025","19:41","LABRA DUISBERG","ALBERTO","23868500-1","RX Pie Derecho AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:52","Validado","","19-mar-2025, 20:33","13 a"
+="9784591","STAT","","19-mar-2025","19:41","LABRA DUISBERG","ALBERTO","23868500-1","RX Calcaneo Derecho Axial-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Hernandez Silva, Pablo - completado)","19-mar-2025, 19:52","Validado","","19-mar-2025, 20:33","13 a"
+="9784592","STAT","","19-mar-2025","19:43","PERALTA JIMENEZ","TOMAS","27164880-4","RX Dedo Izquierdo AP-L-Oblicuo Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Gonzalez del Valle, Jose Miguel - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","19-mar-2025, 19:58","Validado","","19-mar-2025, 20:51","5 a"
+="9784594","STAT","","19-mar-2025","20:15","FIGUEROA VILDOSOLA","AGUSTINA","20812747-0","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 21:19","Validado","","19-mar-2025, 22:52","23 a"
+="9784595","STAT","","19-mar-2025","19:46","CASTRO MONTENEGRO","EGAN ALONSO","27983092-K","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 20:51","Validado","","19-mar-2025, 21:18","2 a"
+="9784598","STAT","","19-mar-2025","19:47","ESCOBAR RIOSECO","DOMINGA IGNACIA","23451133-5","RX Pelvis Inlet-Outlet Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","19-mar-2025, 20:05","Validado","","19-mar-2025, 21:09","14 a"
+="9784599","STAT","","19-mar-2025","19:52","ESCOBAR RIOSECO","DOMINGA IGNACIA","23451133-5","Rx Pelvis AP/Lowenstein >6 años Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","19-mar-2025, 20:04","Validado","","19-mar-2025, 21:09","14 a"
+="9784616","STAT","","19-mar-2025","20:14","CORTES VILLEGAS","AUGUSTO EMILIO","25143731-9","RX Ambas Piernas AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 20:39","Validado","","19-mar-2025, 21:16","9 a"
+="9784628","STAT","","19-mar-2025","20:21","TOBAR RUIZ","ANTONIO ENRIQUE DEL CARMEN","3758199-2","TAC de Cuello","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 20:48","Validado","","19-mar-2025, 21:52","89 a"
+="9784635","STAT","","19-mar-2025","20:37","LOYOLA PINOCHET","BENJAMIN LEON","27843807-4","RX Tobillo Izq AP/L/Oblicuo con Apoyo Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 21:04","Validado","","19-mar-2025, 22:12","2 a"
+="9784636","STAT","","19-mar-2025","20:37","LOYOLA PINOCHET","BENJAMIN LEON","27843807-4","RX Pierna Izq AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 21:00","Validado","","19-mar-2025, 22:12","2 a"
+="9784637","STAT","","19-mar-2025","20:37","LOYOLA PINOCHET","BENJAMIN LEON","27843807-4","RX Pie Izq AP/L/Oblicuo Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 21:01","Validado","","19-mar-2025, 22:12","2 a"
+="9784640","STAT","","19-mar-2025","20:38","TOBAR RUIZ","ANTONIO ENRIQUE DEL CARMEN","3758199-2","TAC de Torax","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 20:48","Validado","","19-mar-2025, 21:52","89 a"
+="9784649","STAT","","19-mar-2025","20:54","VODANOVIC MARTINEZ","CARMEN AGUEDA","8063331-9","TAC Angio Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 22:43","Validado","","19-mar-2025, 23:53","68 a"
+="9784651","STAT","","19-mar-2025","20:54","SOBARZO-LEGIDO ZUNIGA","ALFONSINA","22462068-3","RX Tobillo Izquierdo AP-L-Oblicuo C/Apoyo","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","19-mar-2025, 21:16","Validado","","19-mar-2025, 22:23","17 a"
+="9784654","STAT","","19-mar-2025","21:11","NAVARRETE MOLINA","CONSTHANZA LIBERTAD","24916147-0","RX Rodilla Der AP/L/Axial/Rosenberg Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 21:41","Validado","","19-mar-2025, 22:20","10 a"
+="9784655","STAT","","19-mar-2025","21:11","NAVARRETE MOLINA","CONSTHANZA LIBERTAD","24916147-0","RX Pelvis AP > 6 años Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 21:40","Validado","","19-mar-2025, 22:21","10 a"
+="9784664","STAT","","19-mar-2025","21:59","CARO TORO","CAROLINA ANDREA","14320347-6","RX Antebrazo Derecho AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","19-mar-2025, 22:13","Validado","","19-mar-2025, 22:58","48 a"
+="9784665","STAT","","19-mar-2025","21:35","ESCOBAR CORTES","SANDRA ELIANA","11845893-1","TAC de Cuello","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 22:06","Validado","","19-mar-2025, 23:24","53 a"
+="9784666","STAT","","19-mar-2025","21:35","FUENTES BORQUEZ","MARIA TERESA","7284273-1","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 22:14","Validado","","19-mar-2025, 23:37","74 a"
+="9784668","STAT","","19-mar-2025","21:35","GAJARDO AZOLA","DANISA DE LOURDES","7355925-1","Doppler Venoso Ambas EEII","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (IMG, RADIOLOGO - completado)","19-mar-2025, 23:00","Validado","","19-mar-2025, 23:37","66 a"
+="9784670","STAT","","19-mar-2025","21:59","MEJIAS RUIZ","JUAN PABLO","24039469-3","RX Calcaneo Izquierdo Axial-L Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","19-mar-2025, 22:16","Validado","","19-mar-2025, 23:23","12 a"
+="9784696","STAT","","19-mar-2025","22:13","CAMPUSANO ORMAZABAL","SANTIAGO","23182095-7","RX Dedo Derecho AP-L-Oblicuo","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 22:30","Validado","","19-mar-2025, 22:59","15 a"
+="9784704","STAT","","19-mar-2025","22:40","ZUNIGA ALBARRAN","GONZALO IVAN","13053749-9","TAC de Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 23:31","Validado","","19-mar-2025, 23:58","49 a"
+="9784708","STAT","","19-mar-2025","22:41","LAGOS ALARCON","ALDO WLADIMIR","14280188-4","TAC Angio Tórax","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 23:43","Validado","","20-mar-2025, 00:41","52 a"
+="9784727","STAT","","19-mar-2025","22:57","SILVA JELDRES","MARIA ELENA","7853705-1","RX Rodilla Izq AP/L/Oblicuas","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","20-mar-2025, 00:16","Validado","","20-mar-2025, 02:50","66 a"
+="9784730","STAT","","19-mar-2025","22:57","SILVA JELDRES","MARIA ELENA","7853705-1","RX Pelvis Adulto","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Veas Mela, Natalia - completado)","20-mar-2025, 00:15","Validado","","20-mar-2025, 02:00","66 a"
+="9784731","STAT","","19-mar-2025","22:57","SILVA JELDRES","MARIA ELENA","7853705-1","RX Tobillo Izq AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","20-mar-2025, 00:17","Validado","","20-mar-2025, 02:50","66 a"
+="9784732","STAT","","19-mar-2025","22:58","SILVA JELDRES","MARIA ELENA","7853705-1","RX Pie Izq AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","20-mar-2025, 00:18","Validado","","20-mar-2025, 02:50","66 a"
+="9784733","STAT","","19-mar-2025","22:58","SILVA JELDRES","MARIA ELENA","7853705-1","RX Pierna Izq AP/L/Oblicua","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","20-mar-2025, 00:19","Validado","","20-mar-2025, 02:50","66 a"
+="9784734","STAT","","19-mar-2025","22:58","SILVA JELDRES","MARIA ELENA","7853705-1","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 23:56","Validado","","20-mar-2025, 00:16","66 a"
+="9784736","STAT","","19-mar-2025","23:00","MENAS PENA","FRANCHESKA MACARENA","15708047-4","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Veas Mela, Natalia - completado)","19-mar-2025, 23:57","Validado","","19-mar-2025, 23:58","41 a"
+="9784737","STAT","","19-mar-2025","23:01","LEON ARIAS","CAMILA PAZ","19687069-5","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 23:05","Validado","","19-mar-2025, 23:31","27 a"
+="9784767","STAT","","19-mar-2025","23:54","PENAILILLO PITEAU","LUCAS SIMON","26029172-6","Ecografia Abdominal Ped","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Bahamondes Martinez, Viviana - completado)","20-mar-2025, 00:30","Validado","","20-mar-2025, 00:53","7 a"
+="9784774","STAT","","20-mar-2025","00:12","FIGUEROA LOYOLA","FRANCISCA AMANDA","20425836-8","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 00:43","Validado","","20-mar-2025, 02:31","24 a"
+="9784780","STAT","","20-mar-2025","00:22","YANEZ SOLA","TRINIDAD","27236002-2","RX Huesos Propios Nasales Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","20-mar-2025, 00:40","Validado","","20-mar-2025, 02:25","5 a"
+="9784785","STAT","","20-mar-2025","00:37","SILVA VARGAS","CARLOS ADOLFO","5721185-7","Ecografia Abdominal","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (IMG, RADIOLOGO - completado)","20-mar-2025, 01:34","Validado","","20-mar-2025, 01:54","76 a"
+="9784787","STAT","","20-mar-2025","01:04","FONCEA GONZALEZ","CAMILA PAZ","19743095-8","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 01:35","Validado","","20-mar-2025, 02:05","27 a"
+="9784788","STAT","","20-mar-2025","01:04","FONCEA GONZALEZ","CAMILA PAZ","19743095-8","TAC Angio Cuello","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 01:35","Validado","","20-mar-2025, 02:33","27 a"
+="9784795","STAT","","20-mar-2025","01:27","FUENTES SILVA","PETRONILA ESTER","6352518-9","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 01:47","Validado","","20-mar-2025, 02:46","75 a"
+="9784806","STAT","","20-mar-2025","03:58","DIAZ BUGUENO","ERIKA FRANCISCA","20007547-1","Doppler Venoso Ext.Inf.Izquierda","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (IMG, RADIOLOGO - completado)","20-mar-2025, 04:24","Validado","","20-mar-2025, 04:39","25 a"
+="9784814","STAT","","20-mar-2025","04:59","HERRERA ITURRIAGA","MARIA ANGELICA","3280150-1","TAC de Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 05:26","Validado","","20-mar-2025, 06:36","93 a"
+="9784818","STAT","","20-mar-2025","06:10","CAMPOS FERNANDEZ","JOSE ANDRES","12720582-5","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","20-mar-2025, 06:12","Validado","","20-mar-2025, 06:58","50 a"
+="9784833","STAT","","20-mar-2025","06:29","MONTALVAN ESCOBEDO","MARTIN ANTONIO","22714758-K","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 06:56","Validado","","20-mar-2025, 07:39","16 a"
+="9784836","STAT","","20-mar-2025","07:00","ALLENDE YANEZ","JORGE ROGELIO","4915769-K","TAC de Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 07:25","Validado","","20-mar-2025, 07:47","83 a"
+="9816702","STAT","","29-mar-2025","07:54","ARENAS FIGUEROA","SIMONEY POULETTE","22036282-5","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 09:08","Validado","","29-mar-2025, 09:39","19 a"
+="9816873","STAT","","29-mar-2025","09:04","JOFRE PAVEZ","DAVID","7700644-3","RX Columna Lumbar AP-L-5°Espacio","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 09:30","Validado","","29-mar-2025, 09:45","66 a"
+="9816908","STAT","","29-mar-2025","09:12","CASTRO ORBENES","ALBA","25133336-K","RX Ortejo Izquierdo AP-L-Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 09:40","Validado","","29-mar-2025, 09:55","9 a"
+="9816935","STAT","","29-mar-2025","09:18","JOFRE PAVEZ","DAVID","7700644-3","RX Pelvis AP-Inlet-Outlet","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 09:30","Validado","","29-mar-2025, 09:56","66 a"
+="9816950","STAT","","29-mar-2025","09:31","GONZALEZ CARTER","PATRICIO ROBERTO","5887129-K","TAC TX/ABD/PEL","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 10:10","Validado","","29-mar-2025, 11:01","75 a"
+="9817321","STAT","","29-mar-2025","10:42","BADILLO RAMIREZ","VALENTINA PAZ","22313730-K","RX Pie Der AP/L/Oblicuo","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 11:13","Validado","","29-mar-2025, 11:19","18 a"
+="9817327","STAT","","29-mar-2025","10:41","FARACHI PEREIRA","BRUNO","26288345-0","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 10:52","Validado","","29-mar-2025, 11:02","6 a"
+="9817335","STAT","","29-mar-2025","10:42","NUNEZ CORDERO","BELEN FABIOLA","23736066-4","RX Torax AP/Lateral Ped","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 11:19","Validado","","29-mar-2025, 11:22","13 a"
+="9817390","STAT","","29-mar-2025","10:58","PEREZ CORTES","CAMILA ZUGEY","25762240-1","RX Tobillo Der AP/L/Oblicuo Ped","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","29-mar-2025, 11:09","Validado","","29-mar-2025, 11:17","7 a"
+="9817406","STAT","","29-mar-2025","10:55","CAMIRUAGA MELENDEZ","ANGELA MARIA","9965198-9","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 11:09","Validado","","29-mar-2025, 11:10","55 a"
+="9817496","STAT","","29-mar-2025","11:24","ZUBIZARRETA LOPEZ","JOSE MATEO","25099084-7","RX Pelvis Inlet-Outlet Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 11:39","Validado","","29-mar-2025, 11:57","9 a"
+="9817497","STAT","","29-mar-2025","11:52","ZUBIZARRETA LOPEZ","JOSE MATEO","25099084-7","RX Pelvis AP + Cadera Izq AP-Axial Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 11:39","Validado","","29-mar-2025, 11:57","9 a"
+="9817510","STAT","","29-mar-2025","11:19","PALOMINOS PALOMINOS","MATIAS","17063336-9","RX Mano Der AP/L/Oblicua","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Venegas Soto, Catalina - completado)","29-mar-2025, 11:50","Validado","","29-mar-2025, 12:03","36 a"
+="9817526","STAT","","29-mar-2025","11:24","CARTONI JOYA","ALESSIA SOFIA","24334186-8","RX Pie Izquierdo AP-L C/Apoyo + Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 11:49","Validado","","29-mar-2025, 11:54","11 a"
+="9817528","STAT","","29-mar-2025","11:25","AYALA MENDEZ","NANCY DEL CARMEN","7359419-7","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Venegas Soto, Catalina - completado)","29-mar-2025, 12:07","Validado","","29-mar-2025, 12:03","66 a"
+="9817543","STAT","","29-mar-2025","11:27","RIVERA GARCIA","FELIPE IGNACIO","23287073-7","RX Pie Izq AP/L/Oblicuo Ped","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","29-mar-2025, 11:33","Validado","","29-mar-2025, 11:43","15 a"
+="9817545","STAT","","29-mar-2025","11:45","BELLO LEYTON","NAOMI ATENEA","26701689-5","RX Torax AP/Lateral Ped","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","29-mar-2025, 11:49","Validado","","29-mar-2025, 11:54","6 a"
+="9817639","STAT","","29-mar-2025","11:48","PALOMINOS PALOMINOS","MATIAS","17063336-9","RX Dedo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Venegas Soto, Catalina - completado)","29-mar-2025, 11:57","Validado","","29-mar-2025, 12:03","36 a"
+="9817733","STAT","","29-mar-2025","12:19","DONOSO MOLINA","DANTE","28305419-5","RX Torax AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 12:31","Validado","","29-mar-2025, 12:31","15 m"
+="9817742","STAT","","29-mar-2025","12:20","FERNANDEZ SANDOVAL","RAUL EDUARDO","6330341-0","TAC Angio Tórax","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Brito Rosas, Marcelo - completado)","29-mar-2025, 12:55","Validado","","29-mar-2025, 13:23","69 a"
+="9817753","STAT","","29-mar-2025","12:21","FUENTES FERNANDEZ","PAULA CONSTANZA","15367106-0","RX Tobillo Izq AP/L/Oblicuo con Apoyo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Venegas Soto, Catalina - completado)","29-mar-2025, 13:01","Validado","","29-mar-2025, 13:10","42 a"
+="9817804","STAT","","29-mar-2025","12:37","PLAZA CORNEJO","JORGE RENATO","25015535-2","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 13:14","Validado","","29-mar-2025, 13:14","9 a"
+="9817811","STAT","","29-mar-2025","12:38","PALOMINOS PALOMINOS","MATIAS","17063336-9","RX Dedo Der AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 13:07","Validado","","29-mar-2025, 13:05","36 a"
+="9817832","STAT","","29-mar-2025","12:47","MATURANA LARA","ALEXIS ANDRE","21086504-7","RX Parrilla Costal Der AP/Oblicua","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Tapia Cid, Sebastian - completado)","29-mar-2025, 12:48","Validado","","29-mar-2025, 12:51","22 a"
+="9817843","STAT","","29-mar-2025","12:51","PAVEZ LEIVA","MARTA MARIA SOLEDAD","12672848-4","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 13:27","Validado","","29-mar-2025, 13:41","53 a"
+="9817855","STAT","","29-mar-2025","12:55","RUSSEL .","ROBIN WALTERS","R615550-2","RX Rodilla Izq AP/L/Axial/Tunel Inter.","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 13:30","Validado","","29-mar-2025, 13:47","69 a"
+="9817858","STAT","","29-mar-2025","12:55","ASTROZA BUSTOS","BERNARDITA DE LOURDES","12862903-3","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Brito Rosas, Marcelo - completado)","29-mar-2025, 13:29","Validado","","29-mar-2025, 14:04","49 a"
+="9817879","STAT","","29-mar-2025","13:06","SANCHEZ DAVISON","DANIELA KARINA","16644531-0","RX Columna Lumbar AP/Lateral/5o Espacio","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 13:50","Validado","","29-mar-2025, 13:56","37 a"
+="9817888","STAT","","29-mar-2025","13:06","MOREIRA VIDELA","ROCIO CATALINA","20938606-2","RX Ortejo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 13:42","Validado","","29-mar-2025, 13:54","23 a"
+="9817892","STAT","","29-mar-2025","14:34","BENAVENTE RUZ","SANDRA CATALINA","9257942-5","RX Columna Lumbar AP/Lateral/5o Espacio","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","29-mar-2025, 14:41","Validado","","29-mar-2025, 14:48","62 a"
+="9817908","STAT","","29-mar-2025","13:16","SANCHEZ AVILA","JACQUELINE","9600333-1","TAC Angio Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 13:58","Validado","","29-mar-2025, 14:16","61 a"
+="9817910","STAT","","29-mar-2025","13:16","RIQUELME REYES","FREDDY GREGORY","17437808-8","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Brito Rosas, Marcelo - completado)","29-mar-2025, 13:43","Validado","","29-mar-2025, 14:04","34 a"
+="9817923","STAT","","29-mar-2025","14:52","PAVEZ ONEL","CECILIA DEL CARMEN","7256483-9","RX Muñeca Der AP/L","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","29-mar-2025, 14:54","Validado","","29-mar-2025, 14:57","70 a"
+="9817933","STAT","","29-mar-2025","13:33","GHIARDO PARENTINI","CARLOS OSVALDO","4523847-4","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 13:32","Validado","","29-mar-2025, 13:54","83 a"
+="9817940","STAT","","29-mar-2025","13:38","GUTIERREZ SOBARZO","RAQUEL","6548609-1","TAC Angio Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 14:21","Validado","","29-mar-2025, 14:48","77 a"
+="9817949","STAT","","29-mar-2025","13:48","GHIARDO PARENTINI","CARLOS OSVALDO","4523847-4","TAC de Cerebro","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 14:52","Validado","","29-mar-2025, 15:10","83 a"
+="9817956","STAT","","29-mar-2025","13:52","BUSTOS GUTIERREZ","MIJAEL ALEJANDRO","17664645-4","TAC Angio Extremidad Superior","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 15:21","Validado","","29-mar-2025, 15:46","34 a"
+="9817978","STAT","","29-mar-2025","14:30","GODOY DONOSO","NICOLAS DANIEL","23939389-6","RX Antebrazo Izq AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 14:52","Validado","","29-mar-2025, 14:52","12 a"
+="9817979","STAT","","29-mar-2025","14:30","ROJAS SAN MARTIN","DEREK SALVADOR","28156778-0","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 15:23","Validado","","29-mar-2025, 15:23","22 m"
+="9817992","STAT","","29-mar-2025","14:55","ROMAN GUERRA","EDGAR ERNESTO","22397409-0","RX Dedo Derecho AP-L-Oblicuo","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 15:18","Validado","","29-mar-2025, 15:25","17 a"
+="9817995","STAT","","29-mar-2025","15:01","FONTAINE AYLWIN","AMANDA","21747248-2","RX Muñeca Izquierda AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 15:14","Validado","","29-mar-2025, 15:16","20 a"
+="9818001","STAT","","29-mar-2025","15:13","ORTEGA PERAZA","VIRGINIA NOHEMI","26416076-6","TAC Angio Cuello","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 15:52","Validado","","29-mar-2025, 16:32","50 a"
+="9818002","STAT","","29-mar-2025","15:14","ORTEGA PERAZA","VIRGINIA NOHEMI","26416076-6","TAC Angio Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 15:52","Validado","","29-mar-2025, 16:32","50 a"
+="9818003","STAT","","29-mar-2025","15:11","RUIZ CONTRERAS","NICOLAS ANDRES","16870984-6","RX Hombro Izq (3P)","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 15:39","Validado","","29-mar-2025, 15:41","37 a"
+="9818020","STAT","","29-mar-2025","15:31","PENA SCHWARZ","MARIA FLORISA","26887093-8","RX Muñeca Derecha AP-L Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 15:47","Validado","","29-mar-2025, 15:58","5 a"
+="9818038","STAT","","29-mar-2025","15:50","RUIZ CONTRERAS","NICOLAS ANDRES","16870984-6","RX Hombro Izq (3P)","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 16:20","Validado","","29-mar-2025, 16:40","37 a"
+="9818046","STAT","","29-mar-2025","16:07","OLIVARES PACHECO","MARIBEL AURORA","21640709-1","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 16:41","Validado","","29-mar-2025, 17:09","40 a"
+="9818051","STAT","","29-mar-2025","16:27","LATAPIAT PALMA","PAULINA","11263282-4","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 16:39","Validado","","29-mar-2025, 16:57","57 a"
+="9818052","STAT","","29-mar-2025","16:11","CABRERA POBLETE","JESSICA MABEL","11456432-K","RX Tobillo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 16:29","Validado","","29-mar-2025, 17:03","55 a"
+="9818054","STAT","","29-mar-2025","16:16","ROJAS SAN MARTIN","DEREK SALVADOR","28156778-0","Ecografia Abdominal Ped","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 16:28","Validado","","29-mar-2025, 16:52","22 m"
+="9818056","STAT","","29-mar-2025","16:18","CAMPO ELIAS DE CASTELLANOS","MILDRED VIOLETA","26416036-7","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 17:05","Validado","","29-mar-2025, 17:18","77 a"
+="9818057","STAT","","29-mar-2025","16:18","ARIAS FUENTES","GILDA CONSUELO","14334426-6","TAC Angio Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:00","Validado","","29-mar-2025, 17:16","48 a"
+="9818062","STAT","","29-mar-2025","16:26","ARIAS FUENTES","GILDA CONSUELO","14334426-6","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:00","Validado","","29-mar-2025, 17:16","48 a"
+="9818073","STAT","","29-mar-2025","16:40","MEDINA MUNOZ","GENOVEVA DEL CARMEN","8818662-1","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:14","Validado","","29-mar-2025, 17:27","65 a"
+="9818074","STAT","","29-mar-2025","16:48","VELARDE .","DENISSE YOLANDA","24701373-3","RX Mano Derecha AP-L-Oblicua","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 16:57","Validado","","29-mar-2025, 17:11","40 a"
+="9818075","STAT","","29-mar-2025","16:40","LETELIER ESCOBAR","AGUSTIN ALFONSO","4512487-8","TAC Angio Cuello","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:28","Validado","","29-mar-2025, 17:56","80 a"
+="9818076","STAT","","29-mar-2025","16:40","LETELIER ESCOBAR","AGUSTIN ALFONSO","4512487-8","TAC Angio Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:28","Validado","","29-mar-2025, 17:56","80 a"
+="9818079","STAT","","29-mar-2025","16:48","CASTELLANOS SANCHEZ","JOSE VALOY","26416007-3","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 17:23","Validado","","29-mar-2025, 17:29","76 a"
+="9818083","STAT","","29-mar-2025","16:57","CIFUENTES LOPEZ","IGNACIA","22378285-K","TAC de Cavidades Perinasales","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:48","Validado","","29-mar-2025, 18:11","17 a"
+="9818084","STAT","","29-mar-2025","16:57","RODAS SARMIENTO","NELLIE","4949780-6","RX Pelvis AP + Cadera Izquierda AP-Axial","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 17:44","Validado","","29-mar-2025, 18:02","81 a"
+="9818085","STAT","","29-mar-2025","17:04","RODAS SARMIENTO","NELLIE","4949780-6","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 17:33","Validado","","29-mar-2025, 17:44","81 a"
+="9818089","STAT","","29-mar-2025","17:27","SAN MARTIN NEIRA","RUBEN BELARMINO","17563977-2","RX Columna Lumbar AP/L/5o Espacio Ped","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","29-mar-2025, 17:39","Validado","","29-mar-2025, 17:59","34 a"
+="9818095","STAT","","29-mar-2025","17:42","HUMERES CASTILLO","FRANCISCO JAVIER","13715918-K","TAC de Torax","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 17:53","Validado","","29-mar-2025, 18:15","45 a"
+="9818098","STAT","","29-mar-2025","17:05","ACEVEDO ACEVEDO","MACARENA DEL ROSARIO","12691447-4","RX Dedo Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 17:27","Validado","","29-mar-2025, 17:38","51 a"
+="9818100","STAT","","29-mar-2025","17:11","MARTINEZ AMENABAR","EUSTAQUIO","20428918-2","RX Dedo Izquierdo AP-L-Oblicuo","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 17:19","Validado","","29-mar-2025, 17:22","24 a"
+="9818104","STAT","","29-mar-2025","17:19","DIAZ GONZALEZ","DANIELA ALEJANDRA","15545285-4","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 17:30","Validado","","29-mar-2025, 17:44","41 a"
+="9818105","STAT","","29-mar-2025","17:19","DIAZ GONZALEZ","DANIELA ALEJANDRA","15545285-4","RX Parrilla Costal Izquierda","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 17:30","Validado","","29-mar-2025, 17:52","41 a"
+="9818109","STAT","","29-mar-2025","17:19","PEREZ HARGREAVES","BENJAMIN LEON","21182719-K","RX Muñeca Izquierda AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 17:35","Validado","","29-mar-2025, 17:57","21 a"
+="9818113","STAT","","29-mar-2025","17:23","NAVARRETE VALENZUELA","SARA","5780656-7","TAC de Torax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 18:40","Validado","","29-mar-2025, 19:02","80 a"
+="9818114","STAT","","29-mar-2025","17:23","NAVARRETE VALENZUELA","SARA","5780656-7","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 18:40","Validado","","29-mar-2025, 19:02","80 a"
+="9818120","STAT","","29-mar-2025","17:27","SALGADO FIGUEROA","INGRID SOLANGE","11314693-1","TAC de Cuello","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 17:57","Validado","","29-mar-2025, 18:26","57 a"
+="9818121","STAT","","29-mar-2025","17:30","ZAPATTA NICOLIS","ANGELA XIMENA","8949393-5","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 18:16","Validado","","29-mar-2025, 18:30","61 a"
+="9818131","STAT","","29-mar-2025","17:47","SALVADO PENA","ALDO JOSE","13936078-8","RX Hombro Der(3P)","SJ Rayos 7","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Tapia Escobar, Juan Carlos - completado)","29-mar-2025, 17:51","Validado","","29-mar-2025, 18:07","45 a"
+="9818135","STAT","","29-mar-2025","17:40","DIAZ VAN SCHOUWEN","TOMAS","16019518-5","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 17:58","Validado","","29-mar-2025, 18:08","39 a"
+="9818141","STAT","","29-mar-2025","17:53","ALLENDES KING","CONSTANZA VALENTINA","23926062-4","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 18:20","Validado","","29-mar-2025, 18:25","12 a"
+="9818145","STAT","","29-mar-2025","17:53","ERAZO MORENO","CARLOS FABIAN","12357416-8","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 19:02","Validado","","29-mar-2025, 19:15","52 a"
+="9818146","STAT","","29-mar-2025","17:53","ERAZO MORENO","CARLOS FABIAN","12357416-8","TAC de Orbitas","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 19:02","Validado","","29-mar-2025, 19:33","52 a"
+="9818156","STAT","","29-mar-2025","18:08","CHOPPELO ZAPATA","FERNANDO HERACLIO","8041490-0","RX Pie Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 18:39","Validado","","29-mar-2025, 18:37","66 a"
+="9818161","STAT","","29-mar-2025","18:51","HUMERES CASTILLO","FRANCISCO JAVIER","13715918-K","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 18:52","Validado","","29-mar-2025, 19:08","45 a"
+="9818168","STAT","","29-mar-2025","18:17","TALMA GARCIA","RAUL","3133263-K","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 18:38","Validado","","29-mar-2025, 18:44","91 a"
+="9818171","STAT","","29-mar-2025","18:25","ZAMORANO GARRIDO","FRANCISCO","10366086-6","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 18:58","Validado","","29-mar-2025, 19:02","60 a"
+="9818183","STAT","","29-mar-2025","18:37","SCHWARC TREBITSCH","MATIAS AMI","22592240-3","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 18:48","Validado","","29-mar-2025, 19:02","17 a"
+="9818206","STAT","","29-mar-2025","19:32","SANCHEZ GUERRERO","MARIA DOLORES","6069267-K","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 19:39","Validado","","29-mar-2025, 19:57","71 a"
+="9818207","STAT","","29-mar-2025","19:33","LEON LEON","NELIA DEL ROSARIO","5441221-5","RX Hombro Der(3P)","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 20:51","Validado","","29-mar-2025, 21:14","77 a"
+="9818208","STAT","","29-mar-2025","19:33","LEON LEON","NELIA DEL ROSARIO","5441221-5","RX Húmero Der AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 20:51","Validado","","29-mar-2025, 21:14","77 a"
+="9818210","STAT","","29-mar-2025","19:33","RANDOLPH SMITH","AMIRA PAZ","27263272-3","RX Antebrazo Der AP/L Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 20:14","Validado","","29-mar-2025, 20:13","4 a"
+="9818212","STAT","","29-mar-2025","19:34","CORDOVA RUIZ-TAGLE","MARIA GRACIA","18935718-4","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 19:42","Validado","","29-mar-2025, 20:16","30 a"
+="9818215","STAT","","29-mar-2025","19:40","JARA PIZARRO","JOAQUIN MATEO","25043474-K","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 20:33","Validado","","29-mar-2025, 20:30","9 a"
+="9818219","STAT","","29-mar-2025","19:41","GALLARDO CHACANA","JOSEFA ANTONIA","23264331-5","RX Tobillo Der AP/L/Oblicuo con Apoyo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 20:20","Validado","","29-mar-2025, 20:19","15 a"
+="9818221","STAT","","29-mar-2025","19:41","CALVO GONZALEZ","MARIO FERNANDO","2145296-3","TAC Angio Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","29-mar-2025, 20:27","Validado","","29-mar-2025, 20:49","100 a"
+="9818223","STAT","","29-mar-2025","19:47","CONTRERAS LOYOLA","CARLOS ARTURO","11111117-0","RX Pie Der AP/L/Oblicuo","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 20:27","Validado","","29-mar-2025, 20:29","57 a"
+="9818235","STAT","","29-mar-2025","20:03","DURALDE SALAS","MARCELA PAULINA","8920936-6","Doppler Venoso Ext.Sup.Derecha","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 20:37","Validado","","29-mar-2025, 21:08","51 a"
+="9818239","STAT","","29-mar-2025","20:28","RAMIREZ ABARCA","ISABEL","15842009-0","RX Coxis AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 20:46","Validado","","29-mar-2025, 21:22","40 a"
+="9818240","STAT","","29-mar-2025","20:28","RAMIREZ ABARCA","ISABEL","15842009-0","RX Sacro AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 20:46","Validado","","29-mar-2025, 21:22","40 a"
+="9818241","STAT","","29-mar-2025","20:21","CANALES CATALAN","MARIA JOSE","13683961-6","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","29-mar-2025, 20:49","Validado","","29-mar-2025, 21:12","45 a"
+="9818244","STAT","","29-mar-2025","20:39","CASTILLO CHAVEZ","EMMA LUCIA","27674250-7","Ecografia Abdominal Ped","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 21:34","Validado","","29-mar-2025, 22:13","3 a"
+="9818248","STAT","","29-mar-2025","20:48","RODRIGUEZ VILLEGAS","JOAQUIN","19320114-8","RX Columna Lumbar AP/Lateral/5o Espacio","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 21:27","Validado","","29-mar-2025, 21:27","29 a"
+="9818249","STAT","","29-mar-2025","20:52","VILCHES DEL REAL","MARIA PIA","7007036-7","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","29-mar-2025, 22:21","Validado","","29-mar-2025, 23:09","59 a"
+="9818260","STAT","","29-mar-2025","21:43","BILLA SAAVEDRA","PATRICIA","7768340-2","RX Torax AP-L","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 21:57","Validado","","29-mar-2025, 22:17","68 a"
+="9818265","STAT","","29-mar-2025","21:45","DOBSON GARCIA","ANA MARIA","7184587-7","RX Muñeca Der AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 22:38","Validado","","29-mar-2025, 23:34","71 a"
+="9818270","STAT","","29-mar-2025","22:02","LAX REIZIN","SALOMON","5077185-7","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","29-mar-2025, 22:44","Validado","","29-mar-2025, 23:39","78 a"
+="9818271","STAT","","29-mar-2025","22:09","MISRAJI ISRAEL","EITAN","24742080-0","RX Pie Derecho AP-L C/Apoyo + Oblicuo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 22:20","Validado","","29-mar-2025, 22:23","10 a"
+="9818272","STAT","","29-mar-2025","22:09","MISRAJI ISRAEL","EITAN","24742080-0","RX Tobillo Derecho AP-L-Oblicuo C/Apoyo Ped","SCA Rayos 4 Urgencia","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 22:20","Validado","","29-mar-2025, 22:23","10 a"
+="9818274","STAT","","29-mar-2025","22:25","ANTOLISEI LANDOFF","MARIA ESTER","3632761-8","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 22:28","Validado","","29-mar-2025, 23:27","87 a"
+="9818275","STAT","","29-mar-2025","22:33","BECERRA NERVI","EMILIA","25539743-5","RX Tobillo Derecho AP-L-Oblicuo C/Apoyo Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","29-mar-2025, 23:12","Validado","","30-mar-2025, 00:13","8 a"
+="9818276","STAT","","29-mar-2025","22:27","SOTO FUENTES","TOMAS IGNACIO","22759773-9","RX Rodilla Der AP/L/Axial/Tunel Inter.","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 22:48","Validado","","29-mar-2025, 23:54","16 a"
+="9818280","STAT","","29-mar-2025","22:40","CONTRERAS LAMBERT","TOMAS GABRIEL","27825100-4","RX Torax AP/Lateral Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 23:17","Validado","","30-mar-2025, 00:18","2 a"
+="9818281","STAT","","29-mar-2025","22:40","FARIAS HERNANDEZ","JOAQUIN ISRAEL","23806652-2","RX Tobillo Der AP/L/Oblicuo con Apoyo Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 23:04","Validado","","29-mar-2025, 23:58","13 a"
+="9818283","STAT","","29-mar-2025","22:46","BASCUNAN RODRIGUEZ","ORIETTA PRISCILLA","17068856-2","RX Rodilla Izq AP/L/Axial","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 23:10","Validado","","30-mar-2025, 00:07","36 a"
+="9818284","STAT","","29-mar-2025","22:53","BARRERA OLEA","ALONSO DAVID","23509948-9","RX Hombro Der (3P) Ped","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","29-mar-2025, 23:22","Validado","","30-mar-2025, 00:24","14 a"
+="9818287","STAT","","29-mar-2025","23:10","NIETO TRONCOSO","RAIMUNDO","24244745-K","RX Pie Izquierdo AP-L C/Apoyo + Oblicuo Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","29-mar-2025, 23:23","Validado","","30-mar-2025, 00:27","12 a"
+="9818290","STAT","","29-mar-2025","23:20","DABADIE VERGARA","FELIPE JORGE MARIA","13269929-1","RX Estudio Escafoides Derecho","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","29-mar-2025, 23:46","Validado","","30-mar-2025, 00:20","49 a"
+="9818291","STAT","","29-mar-2025","23:24","HERBAGE GUERRERO","VICTORIA LEONOR","24299885-5","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","29-mar-2025, 23:31","Validado","","29-mar-2025, 23:43","11 a"
+="9818292","STAT","","29-mar-2025","23:32","FUENTES MENARES","CARLOS RENE","5588244-4","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","29-mar-2025, 23:58","Validado","","30-mar-2025, 00:21","75 a"
+="9818293","STAT","","29-mar-2025","23:31","DIAZ MEZA","JOSEFINA IGNACIA","28411401-9","RX Torax AP-L Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","29-mar-2025, 23:53","Validado","","30-mar-2025, 00:21","11 m"
+="9818297","STAT","","30-mar-2025","00:08","MENDOZA VALENZUELA","MAURICIO ENRIQUE","10075047-3","RX Torax AP/L","HOS RX3H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ortiz Fuentes, Romina - completado)","30-mar-2025, 00:41","Validado","","30-mar-2025, 01:13","56 a"
+="9818298","STAT","","30-mar-2025","00:09","CARO MENDEZ","AIDA ESTER","7894547-8","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","30-mar-2025, 00:32","Validado","","30-mar-2025, 00:53","65 a"
+="9818308","STAT","","30-mar-2025","00:49","WEHRHAHN MINO","EMMA","23480541-K","RX Mano Derecha AP-L-Oblicua Ped","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","30-mar-2025, 01:21","Validado","","30-mar-2025, 01:28","14 a"
+="9818311","STAT","","30-mar-2025","01:32","ORELLANA SOTO","FRANCISCA PAZ","18623055-8","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","30-mar-2025, 02:20","Validado","","30-mar-2025, 03:41","29 a"
+="9818312","STAT","","30-mar-2025","01:42","ARGOMEDO URBINA","VICENTE TOMAS","24526639-1","Ecografia Testicular Ped","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (IMG, RADIOLOGO - completado)","30-mar-2025, 02:01","Validado","","30-mar-2025, 03:23","11 a"
+="9818313","STAT","","30-mar-2025","01:42","BELTRAN CACERES","LUZ VERENA","22119443-8","TAC de Cerebro","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","30-mar-2025, 02:13","Validado","","30-mar-2025, 03:34","18 a"
+="9818315","STAT","","30-mar-2025","03:52","LORENZO MORALES","RENATO EDUARDO","5595363-5","TAC Angio Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","30-mar-2025, 05:14","Validado","","30-mar-2025, 05:46","72 a"
+="9818316","STAT","","30-mar-2025","05:21","RIVERA VERDUGO","PAMELA AMADA","10168916-6","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","30-mar-2025, 05:34","Validado","","30-mar-2025, 06:28","61 a"
+="9818330","STAT","","30-mar-2025","06:35","TORRES FERNANDEZ","MAXIMILIANO","17600395-2","RX Torax AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","30-mar-2025, 06:45","Validado","","30-mar-2025, 06:51","34 a"
+="9746461","Urgente","","08-mar-2025","11:19","CORDEU BOIREAU","JOSE LUIS","22967775-6","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","08-mar-2025, 11:44","Validado","","09-mar-2025, 12:22","79 a"
+="9747299","Urgente","","09-mar-2025","06:30","MORALES MUNOZ","CARLOS GUILLERMO","16035867-K","TAC de Torax","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 18:50","Validado","","10-mar-2025, 06:25","40 a"
+="9747314","Urgente","","09-mar-2025","08:36","VERGARA MALDONADO","MONICA ANDREA","10797453-9","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Morales Ibañez, Mathias - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 09:48","Validado","","09-mar-2025, 17:22","55 a"
+="9747317","Urgente","","09-mar-2025","11:19","ESPINOZA MARTINEZ","ROSA ELVIRA","6586156-9","TAC de Torax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 10:27","Validado","","09-mar-2025, 11:42","71 a"
+="9747323","Urgente","","09-mar-2025","08:58","BUSTOS RIVAS","MARÍA ALEJANDRA","13951020-8","Doppler Carotideo HOS","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 11:55","Validado","","09-mar-2025, 12:51","45 a"
+="9747326","Urgente","","09-mar-2025","09:17","ALBORNOZ MENDOZA","JULIO CESAR","4585323-3","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Morales Ibañez, Mathias - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 09:53","Validado","","09-mar-2025, 18:06","84 a"
+="9747338","Urgente","","09-mar-2025","09:54","MOLINA CARLEVARINO","CRISTIAN ANDRES","10251300-2","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Morales Ibañez, Mathias - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 10:01","Validado","","09-mar-2025, 20:06","52 a"
+="9747342","Urgente","","09-mar-2025","09:58","VARGAS CORDERO","JULIO CESAR","10854191-1","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 10:43","Validado","","09-mar-2025, 12:24","58 a"
+="9747350","Urgente","","09-mar-2025","10:13","CORDEU BOIREAU","JOSE LUIS","22967775-6","TAC TX/ABD/PEL","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 10:48","Validado","","09-mar-2025, 11:51","79 a"
+="9747360","Urgente","","09-mar-2025","10:22","CONTRERAS BRITO","ROSA","5314978-2","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 11:01","Validado","","09-mar-2025, 12:08","76 a"
+="9747390","Urgente","","09-mar-2025","10:55","VALDES MARGAS","VICTOR LUCIANO","5717291-6","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 10:52","Validado","","09-mar-2025, 13:22","71 a"
+="9747410","Urgente","","09-mar-2025","11:29","SALAZAR CORDOVEZ","MARIA ANGELICA","7297307-0","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 11:37","Validado","","10-mar-2025, 04:08","64 a"
+="9747441","Urgente","","09-mar-2025","11:56","FLORES PINA","GERARDO ANTONIO","8038761-K","TAC Angio Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 12:13","Validado","","09-mar-2025, 20:04","64 a"
+="9747444","Urgente","","09-mar-2025","12:00","FLORES PINA","GERARDO ANTONIO","8038761-K","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 12:27","Validado","","10-mar-2025, 03:52","64 a"
+="9747450","Urgente","","09-mar-2025","20:26","BASCUNAN FUENTES","MATTEO","28721537-1","Ecografia Encefalica Ped Portatil","HOS ECO 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Segmento de control de calidad (Bahamondes Martinez, Viviana - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 20:10","Validado","","09-mar-2025, 21:08","5 s"
+="9747456","Urgente","","09-mar-2025","12:13","FUENTES ELDAN","MARIA VERONICA","6625643-K","TAC de Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","09-mar-2025, 12:56","Validado","","09-mar-2025, 13:40","71 a"
+="9747474","Urgente","","09-mar-2025","12:40","SANCHEZ ORELLANA","HECTOR ROLANDO","9506921-5","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","09-mar-2025, 13:09","Validado","","09-mar-2025, 20:23","58 a"
+="9747484","Urgente","","09-mar-2025","12:53","ESCORZA ASTORGA","JACQUELINE JESSICA","9786296-6","TAC TX/ABD/PEL","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Concha Olea, Orlando - completado)","09-mar-2025, 15:32","Validado","","09-mar-2025, 17:32","59 a"
+="9747545","Urgente","","09-mar-2025","14:22","VERA ACUNA","CLAUDIO MARCELO","10963893-5","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","09-mar-2025, 15:47","Validado","","10-mar-2025, 07:39","56 a"
+="9747566","Urgente","","09-mar-2025","15:09","OSORIO GONZALEZ","NATALIA DE LOS ANGELES","18777570-1","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Canihuante Calderón, José Joaquín - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 15:31","Validado","","09-mar-2025, 20:05","30 a"
+="9747634","Urgente","","09-mar-2025","17:00","LIZANA TABORGA","RODRIGO","R614469-1","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","09-mar-2025, 17:03","Validado","","10-mar-2025, 07:49","81 a"
+="9747724","Urgente","","09-mar-2025","19:14","ARRATIA ALBORNOZ","MARCELA","5616752-8","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Morales Ibañez, Mathias - completado)","09-mar-2025, 19:29","Validado","","10-mar-2025, 03:45","77 a"
+="9747808","Urgente","","09-mar-2025","21:43","VARGAS CORDERO","JULIO CESAR","10854191-1","Doppler Abdominal Portatil","HOS ECO 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (IMG, RADIOLOGO - completado)","09-mar-2025, 22:56","Validado","","10-mar-2025, 01:42","58 a"
+="9747860","Urgente","","09-mar-2025","23:33","RAMIREZ ARAVENA","TAMARA VANESSA","19513916-4","TAC de Abdomen y Pelvis","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","10-mar-2025, 03:02","Validado","","10-mar-2025, 04:26","28 a"
+="9747886","Urgente","","10-mar-2025","01:00","ALBORNOZ ROA","ALEJANDRO ENRIQUE","2783483-3","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 01:07","Validado","","10-mar-2025, 03:37","96 a"
+="9747901","Urgente","","10-mar-2025","04:44","CANCINO PEREZ","MARIANELA DEL CARMEN","9697964-9","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Contreras Lagos, Claudio - completado),
+Adquisición (Moreno Zenteno, Gabriel - completado)","10-mar-2025, 04:44","Validado","","10-mar-2025, 04:58","61 a"
+="9783333","Urgente","","19-mar-2025","15:00","VALENZUELA ZUNIGA","LUIS ALBERTO","4858885-9","TAC TX/ABD/PEL","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Aragon Caqueo, Gonzalo - completado),
+Adquisición (Vidal Olivares, Jose - completado)","19-mar-2025, 17:57","Validado","","19-mar-2025, 18:35","79 a"
+="9783366","Urgente","","19-mar-2025","15:04","FUENTES DONOSO","EUGENIA DEL TRANSITO","10361546-1","TAC de Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Vidal Olivares, Jose - completado)","19-mar-2025, 18:17","Validado","","19-mar-2025, 21:34","60 a"
+="9783441","Urgente","","19-mar-2025","15:15","SEPULVEDA RIQUELME","ANA ROSA","6195052-4","TAC Pielografia","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 21:41","Validado","","20-mar-2025, 01:58","76 a"
+="9783460","Urgente","","19-mar-2025","15:21","GONZALEZ VELEZ","ESTEFANIA ANDREA","17031115-9","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Villarroel Meza, Alex - completado)","19-mar-2025, 18:06","Validado","","19-mar-2025, 20:43","35 a"
+="9783900","Urgente","","19-mar-2025","17:32","ACOSTA AGUIRRE","BENJAMIN RAMON","22646159-0","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 23:26","Validado","","20-mar-2025, 00:06","17 a"
+="9783989","Urgente","","19-mar-2025","16:47","DIAZ BUSTAMANTE","RENE LUIS","6361623-0","TAC de Torax","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 21:31","Validado","","20-mar-2025, 01:19","71 a"
+="9783998","Urgente","","19-mar-2025","16:48","DERAMOND MANZUELA","KIRA NICOLL","16382761-1","TAC TX/ABD/PEL","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","19-mar-2025, 23:13","Validado","","20-mar-2025, 03:09","38 a"
+="9784163","Urgente","","19-mar-2025","17:58","ASTORGA VEAS","ALEJANDRA PATRICIA","12585565-2","TAC Angio Abdomen y Pelvis","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 23:51","Validado","","20-mar-2025, 03:21","50 a"
+="9784244","Urgente","","19-mar-2025","17:45","DIAZ OYARZO","FELIPE EDUARDO","18552003-K","TAC Angio Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Vidal Olivares, Jose - completado)","19-mar-2025, 17:49","Validado","","19-mar-2025, 18:15","30 a"
+="9784340","Urgente","","19-mar-2025","18:09","JUAREZ ROJAS","LILIAN EDITH","9824694-0","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 18:34","Validado","","20-mar-2025, 04:48","59 a"
+="9784350","Urgente","","19-mar-2025","18:12","CARVACHO ARDIACA","VALENTINA JESUS","10898582-8","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 18:43","Validado","","20-mar-2025, 04:45","58 a"
+="9784612","Urgente","","19-mar-2025","20:04","ESCUDERO GONZALEZ","MARIA ANGELICA","4711283-4","TAC Angio Tórax","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Salas Cisternas, Karen Jocelyn - completado)","19-mar-2025, 20:46","Validado","","20-mar-2025, 01:03","81 a"
+="9784682","Urgente","","19-mar-2025","21:47","DIAZ OYARZO","FELIPE EDUARDO","18552003-K","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","19-mar-2025, 21:48","Validado","","20-mar-2025, 04:41","30 a"
+="9784776","Urgente","","20-mar-2025","00:16","ARCOS CEA","ROMINA ALEJANDRA","16608222-6","TAC Angio Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 00:54","Validado","","20-mar-2025, 03:45","37 a"
+="9784796","Urgente","","20-mar-2025","01:44","ASENCIO OYARZO","CAROLINA ROXANA DE LOURDES","16392880-9","TAC Angio Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 02:15","Validado","","20-mar-2025, 04:03","38 a"
+="9784799","Urgente","","20-mar-2025","02:00","ARAVENA OSSES","RUTH ELIZABETH","7619372-K","TAC Angio Tórax","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 03:39","Validado","","20-mar-2025, 04:13","65 a"
+="9784807","Urgente","","20-mar-2025","04:04","SILVA JELDRES","MARIA ELENA","7853705-1","TAC Angio Abdomen y Pelvis","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Cáceres Allende, Raúl Nicolás - completado),
+Adquisición (Figueroa Perez, Gustavo - completado)","20-mar-2025, 04:37","Validado","","20-mar-2025, 07:15","66 a"
+="9816258","Urgente","","28-mar-2025","18:01","NACARATE MAULEN","MARCO ANTONIO","12680515-2","TAC Ambos Muslo/Femur","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Brito Rosas, Marcelo - completado)","28-mar-2025, 18:28","Validado","","29-mar-2025, 12:33","51 a"
+="9816537","Urgente","","29-mar-2025","00:13","ROBINSON ORELLANA","MARIA ISABEL","5423079-6","RX Torax AP-L","SCA Rayos 1 Didi","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 10:40","Validado","","29-mar-2025, 11:04","78 a"
+="9816677","Urgente","","29-mar-2025","06:29","VERGARA GARCES","JOSEFA AMARYS","28760604-4","RX Torax (1P) Portátil Ped","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Huaiquin Gomez, Erwin - completado)","29-mar-2025, 07:46","Validado","","29-mar-2025, 09:26","3 s"
+="9816695","Urgente","","29-mar-2025","08:30","COOPER GILBERT","NADINE VALERIE","4912842-8","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 11:01","Validado","","29-mar-2025, 11:15","73 a"
+="9816741","Urgente","","29-mar-2025","08:22","SALINAS GONZALEZ","MARTA REGINA","4770643-2","TAC de Cuello","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Brito Rosas, Marcelo - completado)","29-mar-2025, 12:05","Validado","","29-mar-2025, 12:34","82 a"
+="9816742","Urgente","","29-mar-2025","08:22","SALINAS GONZALEZ","MARTA REGINA","4770643-2","TAC TX/ABD/PEL","HOS TAC 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (Brito Rosas, Marcelo - completado)","29-mar-2025, 12:05","Validado","","29-mar-2025, 12:34","82 a"
+="9817188","Urgente","","29-mar-2025","10:09","CORREA TOBAR","FRANCISCO BASILIO","5732934-3","RX Torax AP/L","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 11:24","Validado","","29-mar-2025, 11:39","77 a"
+="9817214","Urgente","","29-mar-2025","11:27","ABARCA VALDEBENITO","IVAN ANTONIO","16426103-4","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 10:48","Validado","","29-mar-2025, 11:30","39 a"
+="9817273","Urgente","","29-mar-2025","11:26","DEVIA RIVAS","FLORENCIA IGNACIA","27903004-4","RX Torax (1P) Portátil Ped","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 11:10","Validado","","29-mar-2025, 13:32","2 a"
+="9817334","Urgente","","29-mar-2025","10:42","SABANEGH EL FAR","JOSEPH","7257336-6","RX Torax AP/L","HOS RX1H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 13:00","Validado","","29-mar-2025, 13:05","69 a"
+="9817374","Urgente","","29-mar-2025","11:27","BUSTAMANTE BUSTOS","ANA MARIA","13003524-8","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 10:59","Validado","","29-mar-2025, 11:36","48 a"
+="9817479","Urgente","","29-mar-2025","11:42","SANTIBANEZ FLORES","HERNAN","4999373-0","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Rojas Cortez, Francisco Javier - completado)","29-mar-2025, 17:19","Validado","","29-mar-2025, 17:52","81 a"
+="9817493","Urgente","","29-mar-2025","11:16","JIN .","MINSHAN","23949583-4","Ecografia Pelviana Masculina HOS","HOS Procedimientos 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 15:41","Validado","","29-mar-2025, 16:02","53 a"
+="9817556","Urgente","","29-mar-2025","11:28","ROJO GUERRA","RIGOBERTO","4827341-6","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 11:46","Validado","","29-mar-2025, 12:07","81 a"
+="9817702","Urgente","","29-mar-2025","12:06","SALAZAR CORDOVEZ","MARIA ANGELICA","7297307-0","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Pincheira Tapia, Mónica - completado)","29-mar-2025, 12:04","Validado","","29-mar-2025, 12:18","64 a"
+="9817720","Urgente","","29-mar-2025","12:36","CERDA SCHMIDT","TRINIDAD","17086256-2","RX Torax (1P) Portátil","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Quenaya Leguia, Carlos - completado)","29-mar-2025, 12:19","Validado","","29-mar-2025, 13:18","36 a"
+="9817772","Urgente","","29-mar-2025","12:26","HERRERA HENRIQUEZ","MIRIAM ELENA","6907781-1","TAC Pielografia","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Concha Olea, Orlando - completado)","29-mar-2025, 13:12","Validado","","29-mar-2025, 13:33","73 a"
+="9817894","Urgente","","29-mar-2025","13:08","WILLIAMS GUERRA","EDNA MARILYN LUCY","4537834-9","TAC Angio Tórax","HOS TAC 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Galvez Rosales, Felipe - completado)","29-mar-2025, 22:14","Validado","","30-mar-2025, 00:35","85 a"
+="9817914","Urgente","","29-mar-2025","13:20","FUENTES ZUNIGA","GASPAR VALENTIN","28734793-6","Ecografia Encefalica Ped Portatil","HOS ECO 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 15:21","Validado","","29-mar-2025, 16:57","4 s"
+="9817969","Urgente","","29-mar-2025","14:08","TOLEDO SAAVEDRA","BEGONA","27493844-7","Ecografia Abdominal Ped Portatil","HOS ECO 2","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 15:58","Validado","","29-mar-2025, 17:07","4 a"
+="9818013","Urgente","","29-mar-2025","15:20","RAFFO SALINAS","PAULA ANDREA","18114856-K","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Ríos Escobar, Cristian Abel - completado),
+Adquisición (IMG, RADIOLOGO - completado)","29-mar-2025, 15:25","Validado","","29-mar-2025, 16:16","33 a"
+="9818157","Urgente","","29-mar-2025","18:09","RAFFO SALINAS","PAULA ANDREA","18114856-K","RX Torax AP Portatil","SCA Rayos 3 NX","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Ahumada Burgos, Alvaro - completado)","29-mar-2025, 18:09","Validado","","29-mar-2025, 18:25","33 a"
+="9818176","Urgente","","29-mar-2025","18:24","DEVIA RIVAS","FLORENCIA IGNACIA","27903004-4","RX Torax (1P) Portátil Ped","HOS RX5H","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Adquisición (Bustos Vielma, Sarita - completado),
+Lectura (Dra. Castro Guzmán, Daniela Constanza - completado),
+Adquisición (Bustos Vielma, Sarita - completado)","29-mar-2025, 18:29","Validado","","29-mar-2025, 19:07","2 a"
+="9818305","Urgente","","30-mar-2025","00:29","RAFFO SALINAS","PAULA ANDREA","18114856-K","TAC de Cerebro","SCA Tac 1","Lectura (Dr. Muñoz Peralta, Rodrigo Andres - completado),
+Lectura (Dr. Fuentes Banda, Cristóbal Ignacio - completado),
+Adquisición (Vera Perez, Julio Sebastian - completado)","30-mar-2025, 01:01","Validado","","30-mar-2025, 01:40","33 a"
