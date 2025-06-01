@@ -1,0 +1,536 @@
+{
+  "HOS Procedimientos 1": {
+    "tipo": "HOS",
+    "subtipo": "PROCEDIMIENTOS",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS TAC 1": {
+    "tipo": "HOS",
+    "subtipo": "TAC",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Rayos 4 Urgencia": {
+    "tipo": "SCA",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS RX3H": {
+    "tipo": "HOS",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Tac 1": {
+    "tipo": "SCA",
+    "subtipo": "TAC",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Rayos 7": {
+    "tipo": "SJ",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Tac 4": {
+    "tipo": "SJ",
+    "subtipo": "TAC",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS TAC 2": {
+    "tipo": "HOS",
+    "subtipo": "TAC",
+    "conteo": 12,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS RX5H": {
+    "tipo": "HOS",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Rayos 1 Didi": {
+    "tipo": "SCA",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS ECO 4": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS RX1H": {
+    "tipo": "HOS",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Rayos 3 NX": {
+    "tipo": "SCA",
+    "subtipo": "RX",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS ECO 1": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS ECO 2": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 9,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Resonador 9": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS RM4H": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Eco 2": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS RM1H": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Eco 1": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEMGASTRO_0": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM Sala Cardio 1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Resonador 8": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CTEVSALAS": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS SPECT CT MN": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Card Clinica San Carlos Sala 1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Sala pabellón HOS": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Mamógrafo": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Ecógrafo 3": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Mamo 1": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS ECO 3": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM MAMO 2": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM ECO 2": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM ECO 3": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Mamo 4": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Eco 14": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Eco 11": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM MAMO 1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SLU Ecógrafo 1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Resonador 6": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM ECO 1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Eco 10": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SLU Scanner 1": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM Resonador 5": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Densitómetro": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Resonador 11": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Ecógrafo 4": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SLU Ecógrafo 2": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Scanner": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS Digestivo Hospital": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SLU Resonador 10": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SFO Ecografía 1 ": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Eco 3": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Eco 4": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SLU Ecógrafo 3": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS ECO 7": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Eco 13": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "CEM Resonador 7": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "ALC Scanner 3": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "SFO Ecografía 2 Mamo ": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "ALC Resonador 2": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "BIL Resonancia": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "BIL Scanner": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Eco 5": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Eco 12": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "ALC Eco 9": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SFO Mamografía 1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Resonador 3": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS Densito Lunar": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ Sala Cardio 1": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA GASTRO_13": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "EMI Rayos": {
+    "tipo": "OTRO",
+    "subtipo": "RX",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJ GASTRO_1": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "BXCAREMIL": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SJDENTAL_1": {
+    "tipo": "SJ",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "IRADENTAL_1": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "BIL Rayos": {
+    "tipo": "OTRO",
+    "subtipo": "RX",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "-": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "SLU Rayos 1": {
+    "tipo": "OTRO",
+    "subtipo": "RX",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SFO Scanner 1": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "ALC Rayos 6": {
+    "tipo": "OTRO",
+    "subtipo": "RX",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SFO Rayos 1": {
+    "tipo": "OTRO",
+    "subtipo": "RX",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "SCA Tac 2 (PET CT)": {
+    "tipo": "SCA",
+    "subtipo": "TAC",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "HOS PET CT 1": {
+    "tipo": "HOS",
+    "subtipo": "GENERAL",
+    "conteo": 6,
+    "primera_vez": "2025-05-05"
+  },
+  "TAC CECA": {
+    "tipo": "OTRO",
+    "subtipo": "TAC",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Scanner Maule": {
+    "tipo": "SCA",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TLARCH": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "TALCA": {
+    "tipo": "OTRO",
+    "subtipo": "GENERAL",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  },
+  "Rayos Maule": {
+    "tipo": "OTRO",
+    "subtipo": "RX",
+    "conteo": 3,
+    "primera_vez": "2025-05-05"
+  }
+}

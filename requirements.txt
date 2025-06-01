@@ -1,8 +1,38 @@
-pandas==2.0.3
-numpy==1.24.3
-openpyxl==3.1.2
-python-dateutil==2.8.2
-tkcalendar==1.6.1
-streamlit==1.35.0
-plotly==5.18.0
-requests==2.31.0
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+python-dateutil>=2.8.0
+
+# Database
+# SQLite3 viene incluido con Python
+
+# Data visualization (opcional, para gráficos en Streamlit)
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development tools (opcional)
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Logging and monitoring
+python-json-logger>=2.0.0
+
+# File handling
+xlrd>=2.0.0  # Para leer archivos Excel antiguos (.xls)
+XlsxWriter>=3.1.0  # Para escribir archivos Excel con formato
+
+# Utilities
+python-dotenv>=1.0.0  # Para manejar variables de entorno
+click>=8.1.0  # Para CLI (si se necesita)
+
+# Optional AI/ML dependencies (comentar si no se usan)
+# transformers>=4.30.0
+# torch>=2.0.0
+# sentence-transformers>=2.2.0

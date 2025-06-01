@@ -1,12 +1,15 @@
 **/.claude/settings.local.json
 
-# Archivos generados
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
 *.so
+
+# Distribution / packaging
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -18,31 +21,213 @@ lib64/
 parts/
 sdist/
 var/
+wheels/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
-# Directorios temporales
-temp/
-tmp/
+# PyInstaller
+*.manifest
+*.spec
 
-# Logs
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pdm
+.pdm.toml
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Project specific
+data/raw/*
+data/processed/*
+data/output/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/output/.gitkeep
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+
+# Backup files
+backup/
+backups/
+*.backup
+*.bak
+
+# Log files
 logs/
 *.log
 
-# Archivos del sistema
-.DS_Store
-Thumbs.db
+# Cache
+.cache/
+*_cache/
 
-# Archivos de entorno
-.env
-.venv
-venv/
-ENV/
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
 
-# Archivos de configuración local
-config.local.py
+# Excel temporary files
+~$*.xlsx
+~$*.xls
 
-# Archivos de estado del guardián
-.estructura_estado.json
-guardian_arquitectura.log
+# Streamlit
+.streamlit/secrets.toml
+
+# Model files (if using large AI models)
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Configuration files with sensitive data
+config/secrets.py
+config/local_settings.py
+
+# Test data that shouldn't be committed
+test_data/
+*.test.csv
+*.test.xlsx
+
+# Generated reports (keep the directories)
+data/output/*.xlsx
+data/output/*.pdf
+data/output/*.csv
+
+# Keep directory structure
+!.gitkeep
